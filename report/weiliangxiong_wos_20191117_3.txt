@@ -1,0 +1,281 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, H
+   Wei, LX
+   Yuan, P
+   Li, XD
+   Luo, Q
+   Luo, X
+   Chen, LY
+AF Wang, Hao
+   Wei, Liangxiong
+   Yuan, Ping
+   Li, Xiaodi
+   Luo, Qian
+   Luo, Xiao
+   Chen, Liangyin
+TI ODM: A Neighbor Discovery Protocol Based on Optimal Discovery Model in
+   WSNs
+SO KSII TRANSACTIONS ON INTERNET AND INFORMATION SYSTEMS
+LA English
+DT Article
+DE WSNs; neighbor discovery; energy efficiency
+ID SENSOR NETWORKS; DESIGN
+AB It is a challenging issue to improve the energy efficiency of neighbor discovery in WSNs. This paper proposes an optimal discovery model (ODM) for the first time. Based on the model, we investigate the influence of the relative size of two unequal active slots on the energy efficiency. ODM provides the energy optimal value of the length of the larger active slot at a given duty cycle. Other than existing methods, the worst-case latency bound of ODM is only one period. This is a subversive conclusion, because almost all other related methods are based on a wake-up schedule that contains several periods. We theoretically deduce that ODM can reduce worst-case discovery latency by 43.89% compared to Searchlight-Trim when their duty cycles are the same. The simulations verify the advantage of ODM.
+C1 [Wang, Hao; Wei, Liangxiong; Chen, Liangyin] Sichuan Univ, Sch Comp Sci, Chengdu, Sichuan, Peoples R China.
+   [Yuan, Ping] Chongqing Univ Educ, Sch Math & Informat Engineerging, Chongqing, Peoples R China.
+   [Li, Xiaodi] Donghua Univ, Coll Mech Engn, Shanghai, Peoples R China.
+   [Luo, Qian; Luo, Xiao] Gen Adm Civil Aviat China, Res Inst 2, Chengdu, Sichuan, Peoples R China.
+RP Chen, LY (reprint author), Sichuan Univ, Sch Comp Sci, Chengdu, Sichuan, Peoples R China.
+EM pypingyuan@163.com; lixiaodi327@gmail.com; caacsri_luoqian@163.com;
+   chenliangyin@scu.edu.cn
+FU National Natural Science Foundation of ChinaNational Natural Science
+   Foundation of China [61373091]; key Technology R&D program of Sichuan
+   Province (Science & Technology Department of Sichuan Province, China)
+   [2016GZ0068]; Collaborative Innovation of Industrial Cluster Project of
+   Chengdu [2016-XT00-00015-GX]; Civil Aviation Airport United Laboratory
+   of Second Research Institute, CAAC; NNSFCCAAC [U1533203]; Sichuan
+   University of Chengdu [2015-YF04-00050-JH]
+FX This work was supported by the National Natural Science Foundation of
+   China (grant no. 61373091); NNSFC&CAAC U1533203; the key Technology R&D
+   program of Sichuan Province (grant no. 2016GZ0068, Science & Technology
+   Department of Sichuan Province, China); the Collaborative Innovation of
+   Industrial Cluster Project of Chengdu (grant no. 2016-XT00-00015-GX);
+   Civil Aviation Airport United Laboratory of Second Research Institute,
+   CAAC && Sichuan University of Chengdu (grant no. 2015-YF04-00050-JH).
+CR Bakht M, 2012, MOBICOM 12: PROCEEDINGS OF THE 18TH ANNUAL INTERNATIONAL CONFERENCE ON MOBILE COMPUTING AND NETWORKING, P185
+   Bisio I, 2008, IEEE SYST J, V2, P464, DOI 10.1109/JSYST.2008.2004850
+   Chen LY, 2016, IEEE T MOBILE COMPUT, V15, P1996, DOI 10.1109/TMC.2015.2476471
+   Chen S, 2015, P 16 ACM INT S MOB A, P47
+   Dutta P, 2008, SENSYS'08: PROCEEDINGS OF THE 6TH ACM CONFERENCE ON EMBEDDED NETWORKED SENSOR SYSTEMS, P71
+   Go KC, 2013, 2013 IEEE MILITARY COMMUNICATIONS CONFERENCE (MILCOM 2013), P1838, DOI 10.1109/MILCOM.2013.310
+   Kandhalu A, 2010, PROCEEDINGS OF THE 9TH ACM/IEEE INTERNATIONAL CONFERENCE ON INFORMATION PROCESSING IN SENSOR NETWORKS, P350, DOI 10.1145/1791212.1791253
+   Lai S., 2010, IEEE T COMPUTERS, V99
+   Lazarescu MT, 2013, IEEE J EM SEL TOP C, V3, P45, DOI 10.1109/JETCAS.2013.2243032
+   Lee SH, 2009, IEDM, P1, DOI DOI 10.1587/TRANSFUN.E92.A.315
+   Lee W, 2016, IEEE COMMUN LETT, V20, P1437, DOI 10.1109/LCOMM.2016.2564971
+   Lee W, 2015, INT CONF COMM SYST, P143, DOI 10.1109/CSNT.2015.251
+   Margolies R., 2016, IEEE J SELECTED AREA
+   McCarthy B, 2010, LECT NOTES COMPUT SC, V6511, P37, DOI 10.1007/978-3-642-17520-6_4
+   McGlynn M. J., 2001, MOBIHOC 2001. Proceedings of the 2001 ACM International Symposium on Mobile Ad Hoc Networking and Computing, P137
+   Qiu Y., 2016, P IEEE C COMP COMM I
+   Tseng Y. C., 2002, COMPUTER NETWORKS
+   Wei L., 2016, IEEE COMMUNICATIONS, V20
+   Zhang DS, 2012, INT CON DISTR COMP S, P72, DOI 10.1109/ICDCS.2012.73
+   Zhang DS, 2012, P 10 ACM C EMB NETW, P169
+   Zheng R, 2006, IEEE T MOBILE COMPUT, V5, P1228, DOI 10.1109/TMC.2006.134
+NR 21
+TC 0
+Z9 0
+U1 2
+U2 4
+PU KSII-KOR SOC INTERNET INFORMATION
+PI GANGNAM-GU
+PA KOR SCI & TECHNOL CTR, 409 ON 4TH FLR, MAIN BLDG, 635-4 YEOKSAM 1-DONG,
+   GANGNAM-GU, SEOUL 00000, SOUTH KOREA
+SN 1976-7277
+J9 KSII T INTERNET INF
+JI KSII Trans. Internet Inf. Syst.
+PD OCT 31
+PY 2018
+VL 12
+IS 10
+BP 4889
+EP 4902
+DI 10.3837/tiis.2018.10.015
+PG 14
+WC Computer Science, Information Systems; Telecommunications
+SC Computer Science; Telecommunications
+GA GY7YH
+UT WOS:000448833400015
+DA 2019-11-17
+ER
+
+PT J
+AU Wei, LX
+   Sun, WJ
+   Chen, HX
+   Yuan, P
+   Yin, F
+   Luo, Q
+   Chen, YR
+   Chen, LY
+AF Wei, Liangxiong
+   Sun, Weijie
+   Chen, Haixiang
+   Yuan, Ping
+   Yin, Feng
+   Luo, Qian
+   Chen, Yanru
+   Chen, Liangyin
+TI A Fast Neighbor Discovery Algorithm in WSNs
+SO SENSORS
+LA English
+DT Article
+DE neighbor discovery; WSNs; energy efficiency
+ID WIRELESS SENSOR NETWORK; AD HOC NETWORKS; SYSTEMS; IOT
+AB With the quick development of Internet of Things (IoT), one of its important supporting technologies, i.e., wireless sensor networks (WSNs), gets much more attention. Neighbor discovery is an indispensable procedure in WSNs. The existing deterministic neighbor discovery algorithms in WSNs ensure that successful discovery can be obtained within a given period of time, but the average discovery delay is long. It is difficult to meet the need for rapid discovery in mobile low duty cycle environments. In addition, with the rapid development of IoT, the node densities of many WSNs greatly increase. In such scenarios, existing neighbor discovery methods fail to satisfy the requirement in terms of discovery latency under the condition of the same energy consumption. This paper proposes a group-based fast neighbor discovery algorithm (GBFA) to address the issues. By carrying neighbor information in beacon packet, the node knows in advance some potential neighbors. It selects more energy efficient potential neighbors and proactively makes nodes wake up to verify whether these potential neighbors are true neighbors, thereby speeding up neighbor discovery, improving energy utilization efficiency and decreasing network communication load. The evaluation results indicate that, compared with other methods, GBFA decreases the average discovery latency up to at the same energy budget.
+C1 [Wei, Liangxiong; Sun, Weijie; Chen, Haixiang; Chen, Yanru; Chen, Liangyin] Sichuan Univ, Coll Comp Sci, Chengdu 610065, Sichuan, Peoples R China.
+   [Yuan, Ping] Chongqing Univ Educ, Sch Math & Informat Engn, Chongqing 400065, Peoples R China.
+   [Yin, Feng] Southwest Univ Nationalities, Sch Comp Sci & Technol, Chengdu 610225, Sichuan, Peoples R China.
+   [Luo, Qian] Gen Adm Civil Aviat China, Res Inst 2, Chengdu 610041, Sichuan, Peoples R China.
+   [Chen, Liangyin] Sichuan Univ, Inst Ind Res, Chengdu 610065, Sichuan, Peoples R China.
+RP Chen, YR; Chen, LY (reprint author), Sichuan Univ, Coll Comp Sci, Chengdu 610065, Sichuan, Peoples R China.; Chen, LY (reprint author), Sichuan Univ, Inst Ind Res, Chengdu 610065, Sichuan, Peoples R China.
+EM weilx_scu@aliyun.com; xiaowei201102@163.com; scuchx15@163.com;
+   pypingyuan@163.com; yf_eagle@aliyun.com; caacsri_luoqian@163.com;
+   chenyanru315@126.com; chenliangyin@scu.edu.cn
+FU National Natural Science Foundation of ChinaNational Natural Science
+   Foundation of China [61373091]; NNSFC&CAAC (Civil Aviation
+   Administration of China) [U1533203]; Key Technology R&D program of
+   Sichuan Province (Science & Technology Department of Sichuan Province,
+   China) [2016GZ0068]; Collaborative Innovation of Industrial Cluster
+   Project of Chengdu [2016-XT00-00015-GX]; Civil Aviation Airport United
+   Laboratory of Second Research Institute, CAAC [2015-YF04-00050-JH];
+   research projects of the social science and humanities on Young Fund of
+   the Ministry of Education [13YJCZH021]; Sichuan University of Chengdu
+   [2015-YF04-00050-JH]
+FX This work was supported by the National Natural Science Foundation of
+   China (Grant No. 61373091); NNSFC&CAAC (Civil Aviation Administration of
+   China) U1533203; the Key Technology R&D program of Sichuan Province
+   (Grant No. 2016GZ0068, Science & Technology Department of Sichuan
+   Province, China); the Collaborative Innovation of Industrial Cluster
+   Project of Chengdu (Grant No. 2016-XT00-00015-GX); Civil Aviation
+   Airport United Laboratory of Second Research Institute, CAAC && Sichuan
+   University of Chengdu (Grant No. 2015-YF04-00050-JH); the research
+   projects of the social science and humanities on Young Fund of the
+   Ministry of Education (13YJCZH021).
+CR Almeida FR, 2017, SENSORS-BASEL, V17, DOI 10.3390/s17061317
+   Aponte-Luis J, 2018, SENSORS-BASEL, V18, DOI 10.3390/s18010182
+   Bakht M, 2012, MOBICOM 12: PROCEEDINGS OF THE 18TH ANNUAL INTERNATIONAL CONFERENCE ON MOBILE COMPUTING AND NETWORKING, P185
+   Chen LY, 2016, IEEE T MOBILE COMPUT, V15, P1996, DOI 10.1109/TMC.2015.2476471
+   Chen LY, 2015, ELECTRON LETT, V51, P534, DOI [10.1049/el.2014.4142, 10.1049/el.2014.3879]
+   Chen S, 2015, P 16 ACM INT S MOB A, P47
+   Dutta P, 2008, SENSYS'08: PROCEEDINGS OF THE 6TH ACM CONFERENCE ON EMBEDDED NETWORKED SENSOR SYSTEMS, P71
+   Gharghan SK, 2014, SENSORS-BASEL, V14, P15573, DOI 10.3390/s140815573
+   Ghayvat H, 2015, SENSORS-BASEL, V15, P10350, DOI 10.3390/s150510350
+   Gubbi J, 2013, FUTURE GENER COMP SY, V29, P1645, DOI 10.1016/j.future.2013.01.010
+   Jakllari G, 2007, IEEE T WIREL COMMUN, V6, P1114, DOI 10.1109/TWC.2007.05471
+   Johnson D.B., 1996, MOBILE COMPUTING, P153, DOI DOI 10.1007/978-0-585-29603-6_5
+   Kandhalu A, 2010, PROCEEDINGS OF THE 9TH ACM/IEEE INTERNATIONAL CONFERENCE ON INFORMATION PROCESSING IN SENSOR NETWORKS, P350, DOI 10.1145/1791212.1791253
+   Lai SW, 2010, IEEE T COMPUT, V59, P1562, DOI 10.1109/TC.2010.20
+   Lee W, 2016, IEEE COMMUN LETT, V20, P1437, DOI 10.1109/LCOMM.2016.2564971
+   Li XH, 2010, SENSORS-BASEL, V10, P8963, DOI 10.3390/s101008963
+   Margolies R, 2016, IEEE J SEL AREA COMM, V34, P3606, DOI 10.1109/JSAC.2016.2611984
+   McGlynn M. J., 2001, MOBIHOC 2001. Proceedings of the 2001 ACM International Symposium on Mobile Ad Hoc Networking and Computing, P137
+   Own CM, 2015, SENSORS-BASEL, V15, P22364, DOI 10.3390/s150922364
+   Purohit A., 2011, P 10 ACM IEEE INT C
+   Qiu Y., 2016, P IEEE INFOCOM 2016
+   Santosa R.A., 2006, P 6 IEEE INT C COMP
+   Tseng YC, 2003, COMPUT NETW, V43, P317, DOI 10.1016/S1389-1286(03)00284-6
+   Vasudevan S., 2005, P IEEE 24 ANN JOINT
+   Wei LX, 2016, IEEE COMMUN LETT, V20, P966, DOI 10.1109/LCOMM.2016.2536018
+   Williams JM, 2017, IEEE MICROW MAG, V18, P40, DOI 10.1109/MMM.2017.2740738
+   Ye W, 2004, IEEE ACM T NETWORK, V12, P493, DOI 10.1109/TNET.2004.828953
+   Yi WY, 2015, SENSORS-BASEL, V15, P31392, DOI 10.3390/s151229859
+   Zhang D., 2012, P 10 ACM C EMB NETW
+   Zhang DS, 2017, IEEE T MOBILE COMPUT, V16, P1967, DOI 10.1109/TMC.2016.2612200
+   Zheng R, 2006, IEEE T MOBILE COMPUT, V5, P1228, DOI 10.1109/TMC.2006.134
+NR 31
+TC 0
+Z9 0
+U1 1
+U2 4
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD OCT
+PY 2018
+VL 18
+IS 10
+AR 3319
+DI 10.3390/s18103319
+PG 18
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments
+   & Instrumentation
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA GY5YX
+UT WOS:000448661500147
+PM 30282944
+OA DOAJ Gold, Green Published
+DA 2019-11-17
+ER
+
+PT J
+AU Wei, LX
+   Zhou, BS
+   Ma, XC
+   Chen, DX
+   Zhang, JY
+   Peng, J
+   Luo, Q
+   Sun, LM
+   Li, DC
+   Chen, LY
+AF Wei, Liangxiong
+   Zhou, Beisi
+   Ma, Xichu
+   Chen, Dexin
+   Zhang, Jingyu
+   Peng, Jian
+   Luo, Qian
+   Sun, Limin
+   Li, Dingcheng
+   Chen, Liangyin
+TI Lightning: A High-Efficient Neighbor Discovery Protocol for Low Duty
+   Cycle WSNs
+SO IEEE COMMUNICATIONS LETTERS
+LA English
+DT Article
+DE Low Duty Cycle WSNs; Neighbor Discovery; Deterministic Algorithm
+AB In wireless sensor networks (WSNs), due to the limited energy of nodes, discovering neighbors needs to be achieved in an energy-efficient way. This means that, at a given energy consumption, we need to reduce the worst-case neighbor discovery latency as far as possible. In this letter, we propose a novel deterministic neighbor discovery method, called Lightning. Lightning employs two kinds of active slots of different active lengths (we call A slot and C slot, respectively). The active time of C slot is much shorter than that of A slot in order to reduce the energy consumption. In addition, to maximize the energy efficiency, Lightning adopts one-way neighbor discovery method. This makes C slot have the smallest active length that is only enough to send one beaconing packet. Through proactively sending one beaconing packet after one-way discovery, Lightning also realizes bi-directional neighbor discovery. The theoretical analysis indicates that, with the same energy consumption, our method reduces the worst-case latency bound up to 37.9% compared with Searchlight-Trim, the best existing discovery algorithm. The simulation verifies the soundness and effectiveness of our design.
+C1 [Wei, Liangxiong; Zhou, Beisi; Ma, Xichu; Chen, Dexin; Zhang, Jingyu; Peng, Jian; Chen, Liangyin] Sichuan Univ, Sch Comp Sci, Chengdu 610225, Peoples R China.
+   [Luo, Qian] Gen Adm Civil Aviat China, Res Inst 2, Chengdu 610042, Peoples R China.
+   [Sun, Limin] Chinese Acad Sci, Inst Informat Engn, Beijing 100864, Peoples R China.
+   [Li, Dingcheng] Mayo Clin, Div Biomed Stat & Informat, Rochester, MN 55901 USA.
+RP Peng, J; Chen, LY (reprint author), Sichuan Univ, Sch Comp Sci, Chengdu 610225, Peoples R China.
+EM jianpeng@scu.edu.cn; chenliangyin@scu.edu.cn
+FU NSF of ChinaNational Natural Science Foundation of China [61373091,
+   91338107, U1333113]; National Institute of HealthUnited States
+   Department of Health & Human ServicesNational Institutes of Health (NIH)
+   - USA [1K99LM012021-01A1]
+FX This work was supported in part by the NSF of China under Grant
+   61373091, Grant 91338107, and Grant U1333113, in part by the National
+   Institute of Health under Grant 1K99LM012021-01A1.
+CR Bakht M., 2012, P ACM 18 ANN INT C M, P31
+   Chen S, 2015, P 16 ACM INT S MOB A, P47
+   Dutta P, 2008, SENSYS'08: PROCEEDINGS OF THE 6TH ACM CONFERENCE ON EMBEDDED NETWORKED SENSOR SYSTEMS, P71
+   Kandhalu A, 2010, PROCEEDINGS OF THE 9TH ACM/IEEE INTERNATIONAL CONFERENCE ON INFORMATION PROCESSING IN SENSOR NETWORKS, P350, DOI 10.1145/1791212.1791253
+   MCGLYNN MJ, 2001, P 2 ACM INT S MOB AD, P137
+   Zhou H., 2011, WIRELESS SENSOR NETW, V3, P18, DOI DOI 10.4236/WSN.2011.31003
+NR 6
+TC 8
+Z9 8
+U1 2
+U2 11
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1089-7798
+EI 1558-2558
+J9 IEEE COMMUN LETT
+JI IEEE Commun. Lett.
+PD MAY
+PY 2016
+VL 20
+IS 5
+BP 966
+EP 969
+DI 10.1109/LCOMM.2016.2536018
+PG 4
+WC Telecommunications
+SC Telecommunications
+GA DM7DS
+UT WOS:000376516000033
+DA 2019-11-17
+ER
+
+EF
