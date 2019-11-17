@@ -1,0 +1,50 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT B
+AU Nguyen, V.
+   Ibrahim, M.
+   Rupavatharam, S.
+   Jawahar, M.
+   Gruteser, M.
+   Howard, R.
+TI Eyelight: Light-and-Shadow-Based Occupancy Estimation and Room Activity
+   Recognition
+SO IEEE INFOCOM 2018 - IEEE Conference on Computer Communications
+BP 351
+EP 9
+DI 10.1109/INFOCOM.2018.8485867
+PD 2018
+PY 2018
+AB This paper explores the feasibility of localizing and detecting
+   activities of building occupants using visible light sensing across a
+   mesh of light bulbs. Existing Visible Light activity sensing (VLS)
+   techniques require either light sensors to be deployed on the floor or a
+   person to carry a device. Our approach integrates photosensors with
+   light bulbs and exploits the light reflected off the floor to achieve an
+   entirely device-free and light source based system. This forms a mesh of
+   virtual light barriers across networked lights to track shadows cast by
+   occupants. The design employs a synchronization circuit that implements
+   a time division signaling scheme to differentiate between light sources
+   and a sensitive sensing circuit to detect small changes in weak
+   reflections. Sensor readings are fed into indoor supervised tracking
+   algorithms as well as occupancy and activity recognition classifiers.
+   Our prototype uses modified off-the-shelf LED flood light bulbs and is
+   installed in a typical office conference room. We evaluate the
+   performance of our system in terms of localization, occupancy estimation
+   and activity classification, and find a 0.89m median localization error
+   as well as 93.7% and 93.78% occupancy and activity classification
+   accuracy, respectively.
+CT IEEE INFOCOM 2018 - IEEE Conference on Computer Communications
+CY 16-19 April 2018
+CL Honolulu, HI, USA
+Z8 0
+ZB 0
+ZS 0
+ZR 0
+TC 0
+Z9 0
+BN 978-1-5386-4128-6
+UT INSPEC:18150402
+ER
+
+EF
