@@ -1,0 +1,55 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Gandhi, Om P.
+   Morgan, L. Lloyd
+   de Salles, Alvaro Augusto
+   Han, Yueh-Ying
+   Herberman, Ronald B.
+   Davis, Devra Lee
+TI Exposure Limits: The underestimation of absorbed cell phone radiation,
+   especially in children
+SO ELECTROMAGNETIC BIOLOGY AND MEDICINE
+VL 31
+IS 1
+BP 34
+EP 51
+DI 10.3109/15368378.2011.622827
+PD 2012
+PY 2012
+AB The existing cell phone certification process uses a plastic model of
+   the head called the Specific Anthropomorphic Mannequin (SAM),
+   representing the top 10% of U. S. military recruits in 1989 and greatly
+   underestimating the Specific Absorption Rate (SAR) for typical mobile
+   phone users, especially children. A superior computer simulation
+   certification process has been approved by the Federal Communications
+   Commission (FCC) but is not employed to certify cell phones. In the
+   United States, the FCC determines maximum allowed exposures. Many
+   countries, especially European Union members, use the "guidelines" of
+   International Commission on Non-Ionizing Radiation Protection (ICNIRP),
+   a non governmental agency. Radiofrequency (RF) exposure to a head
+   smaller than SAM will absorb a relatively higher SAR. Also, SAM uses a
+   fluid having the average electrical properties of the head that cannot
+   indicate differential absorption of specific brain tissue, nor
+   absorption in children or smaller adults. The SAR for a 10-year old is
+   up to 153% higher than the SAR for the SAM model. When electrical
+   properties are considered, a child's head's absorption can be over two
+   times greater, and absorption of the skull's bone marrow can be ten
+   times greater than adults. Therefore, a new certification process is
+   needed that incorporates different modes of use, head sizes, and tissue
+   properties. Anatomically based models should be employed in revising
+   safety standards for these ubiquitous modern devices and standards
+   should be set by accountable, independent groups.
+ZR 0
+TC 54
+Z8 0
+ZB 20
+ZS 0
+Z9 55
+SN 1536-8378
+EI 1536-8386
+UT WOS:000300343400003
+PM 21999884
+ER
+
+EF

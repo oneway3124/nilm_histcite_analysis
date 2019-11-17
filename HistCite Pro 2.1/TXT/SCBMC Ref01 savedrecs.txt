@@ -1,0 +1,55 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Ntzouni, Maria P.
+   Skouroliakou, Aikaterini
+   Kostomitsopoulos, Nikolaos
+   Margaritis, Lukas H.
+TI Transient and cumulative memory impairments induced by GSM 1.8 GHz cell
+   phone signal in a mouse model
+SO ELECTROMAGNETIC BIOLOGY AND MEDICINE
+VL 32
+IS 1
+BP 95
+EP 120
+DI 10.3109/15368378.2012.709207
+PD 2013
+PY 2013
+AB This study was designed to investigate the transient and cumulative
+   impairments in spatial and non-spatial memory of C57Bl/6J mice exposed
+   to GSM 1.8 GHz signal for 90 min daily by a typical cellular (mobile)
+   phone at a specific absorption rate value of 0.11 W/kg. Free-moving male
+   mice 2 months old were irradiated in two experimental protocols, lasting
+   for 66 and for 148 days respectively. Each protocol used three groups of
+   animals (n = 8 each for exposed, sham exposed and controls) in
+   combination with two behavioural paradigms, the object recognition task
+   and the object location task sequentially applied at different time
+   points. One-way analysis of variance revealed statistically significant
+   impairments of both types of memory gradually accumulating, with more
+   pronounced effects on the spatial memory. The impairments persisted even
+   2 weeks after interruption of the 8 weeks daily exposure, whereas the
+   memory of mice as detected by both tasks showed a full recovery
+   approximately 1 month later. Intermittent every other day exposure for 1
+   month had no effect on both types of memory. The data suggest that
+   visual information processing mechanisms in hippocampus, perirhinal and
+   entorhinal cortex are gradually malfunctioning upon long-term daily
+   exposure, a phenotype that persists for at least 2 weeks after
+   interruption of radiation, returning to normal memory performance levels
+   4 weeks later. It is postulated that cellular repair mechanisms are
+   operating to eliminate the memory affecting molecules. The overall
+   contribution of several possible mechanisms to the observed cumulative
+   and transient impairments in spatial and non-spatial memory is
+   discussed.
+ZS 0
+ZB 8
+Z8 0
+ZR 0
+TC 14
+Z9 14
+SN 1536-8378
+EI 1536-8386
+UT WOS:000315358500010
+PM 23320614
+ER
+
+EF

@@ -1,0 +1,49 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT B
+AU Te-Chuan Chiu
+   Yuan-Yao Shih
+   Ai-Chun Pang
+   Jeu-Yih Jeng
+   Pi-Cheng Hsiu
+TI Mobility-aware charger deployment for wireless rechargeable sensor
+   networks
+SO 2012 14th Asia-Pacific Network Operations and Management Symposium
+   (APNOMS 2012)
+BP 7 pp.
+EP 7 pp.
+DI 10.1109/APNOMS.2012.6356102
+PD 2012
+PY 2012
+AB Wireless charging technology is considered as one of the promising
+   solutions to solve the energy limitation problem for large-scale
+   wireless sensor networks. Obviously, charger deployment is a critical
+   issue since the number of chargers would be limited by the network
+   construction budget, which makes the full-coverage deployment of
+   chargers infeasible. In many of the applications targeted by large-scale
+   wireless sensor networks, end-devices are usually equipped by the human
+   and their movement follows some degree of regularity. Therefore in this
+   paper, we utilize this property to deploy chargers with partial
+   coverage, with an objective to maximize the survival rate of
+   end-devices. We prove this problem is NP-hard, and propose an algorithm
+   to tackle it. The simulation results show that our proposed algorithm
+   can significantly increase the survival rate of end-devices. To our
+   knowledge, this is one of very first works that consider charger
+   deployment with partial coverage in wireless rechargeable sensor
+   networks.
+CT 2012 14th Asia-Pacific Network Operations and Management Symposium
+   (APNOMS 2012)
+CY 25-27 Sept. 2012
+CL Seoul, South Korea
+SP IEICE
+TC 0
+ZS 0
+ZB 0
+ZR 0
+Z8 0
+Z9 0
+BN 978-1-4673-4494-4
+UT INSPEC:13151580
+ER
+
+EF

@@ -1,0 +1,54 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT B
+AU Dai, Haipeng
+   Xu, Lijie
+   Wu, Xiaobing
+   Dong, Chao
+   Chen, Guihai
+GP IEEE
+TI Impact of Mobility on Energy Provisioning in Wireless Rechargeable
+   Sensor Networks
+SO 2013 IEEE WIRELESS COMMUNICATIONS AND NETWORKING CONFERENCE (WCNC)
+BP 962
+EP 967
+PD 2013
+PY 2013
+AB One fundamental question in Wireless Rechargeable Sensor Networks
+   (WRSNs) is the energy provisioning problem, i.e., how to deploy energy
+   sources in a network to ensure that the nodes can harvest sufficient
+   energy for continuous operation. Though the potential mobility of nodes
+   has been exploited to reduce the number of sources necessary in energy
+   provisioning problem in existing literature, the non-negligible impacts
+   of the constraints of node speed and battery capacity on energy
+   provisioning arc completely overlooked, in order to simplify the
+   analysis.
+   In this paper, we propose a new metric Quality of Energy Provisioning
+   (QoEP) to characterize the expected portion of time that a mobile node
+   can sustain normal operation in WRSNs, which factors in the constraints
+   of node speed and battery capacity. To avoid confining the analysis to a
+   specific mobility model, we study spatial distribution instead. We
+   investigate the upper and lower bounds of QoEP in one-dimensional case
+   with one single source and multiple sources respectively. For single
+   source case, we prove the tight lower bound and upper bound of QoEP.
+   Extending the results to multiple sources, we obtain tight lower bound
+   and relaxed upper bound in normal cases, together with tight upper bound
+   for one special case. Moreover, we give the tight lower bounds in both
+   2D and 3D cases. Finally, we perform extensive simulations to verify our
+   findings. Simulation results show that our bounds perfectly hold, and
+   outperform the former works.
+CT IEEE Wireless Communications and Networking Conference (WCNC)
+CY APR 07-10, 2013
+CL Shanghai, PEOPLES R CHINA
+SP IEEE
+ZS 0
+ZB 0
+Z8 0
+ZR 0
+TC 15
+Z9 15
+BN 978-1-4673-5939-9; 978-1-4673-5938-2
+UT WOS:000326048101011
+ER
+
+EF

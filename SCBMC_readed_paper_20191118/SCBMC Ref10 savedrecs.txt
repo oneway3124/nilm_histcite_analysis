@@ -1,0 +1,46 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT S
+AU Dai, Haipeng
+   Liu, Yunhuai
+   Chen, Guihai
+   Wu, Xiaobing
+   He, Tian
+GP IEEE
+TI Safe Charging for Wireless Power Transfer
+SO 2014 PROCEEDINGS IEEE INFOCOM
+SE IEEE INFOCOM
+BP 1105
+EP 1113
+PD 2014
+PY 2014
+AB As battery-powered mobile devices become more popular and energy hungry,
+   wireless power transfer technology receives intensive interests, as it
+   allows the power to be transferred from a charger to ambient devices
+   wirelessly. The existing studies mainly focus on the power transfer
+   efficiency but overlook the health impairments caused by RF exposure. In
+   this paper, we study the Safe Charging Problem (SCP) of scheduling power
+   chargers so that more energy can be received while no location in the
+   field has electromagnetic radiation (EMR) exceeding a given threshold
+   R-t. We prove that SCP is NP-hard and propose a solution which provably
+   outperforms the optimal solution to SCP with a relaxed EMR threshold (1
+   - epsilon) R-t. Testbed results based on 8 Powercast TX91501 chargers
+   validate our results. Extensive simulation results show that the gap
+   between our solution and the optimal one is only 6.7% when epsilon =
+   0.1, while a naive greedy algorithm is 34.6% below our solution.
+CT 33rd IEEE Annual Conference on Computer Communications (IEEE INFOCOM)
+CY APR 27-MAY 02, 2014
+CL Toronto, CANADA
+SP IEEE
+ZS 0
+Z8 0
+TC 39
+ZB 0
+ZR 0
+Z9 39
+SN 0743-166X
+BN 978-1-4799-3360-0
+UT WOS:000361544200124
+ER
+
+EF

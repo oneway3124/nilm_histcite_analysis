@@ -1,0 +1,55 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU He, Shibo
+   Chen, Jiming
+   Jiang, Fachang
+   Yau, David K. Y.
+   Xing, Guoliang
+   Sun, Youxian
+TI Energy Provisioning in Wireless Rechargeable Sensor Networks
+SO IEEE TRANSACTIONS ON MOBILE COMPUTING
+VL 12
+IS 10
+BP 1931
+EP 1942
+DI 10.1109/TMC.2012.161
+PD OCT 2013
+PY 2013
+AB Wireless rechargeable sensor networks (WRSNs) have emerged as an
+   alternative to solving the challenges of size and operation time posed
+   by traditional battery-powered systems. In this paper, we study a WRSN
+   built from the industrial wireless identification and sensing platform
+   (WISP) and commercial off-the-shelf RFID readers. The paper-thin WISP
+   tags serve as sensors and can harvest energy from RF signals transmitted
+   by the readers. This kind of WRSNs is highly desirable for indoor
+   sensing and activity recognition and is gaining attention in the
+   research community. One fundamental question in WRSN design is how to
+   deploy readers in a network to ensure that the WISP tags can harvest
+   sufficient energy for continuous operation. We refer to this issue as
+   the energy provisioning problem. Based on a practical wireless recharge
+   model supported by experimental data, we investigate two forms of the
+   problem: point provisioning and path provisioning. Point provisioning
+   uses the least number of readers to ensure that a static tag placed in
+   any position of the network will receive a sufficient recharge rate for
+   sustained operation. Path provisioning exploits the potential mobility
+   of tags (e.g., those carried by human users) to further reduce the
+   number of readers necessary: mobile tags can harvest excess energy in
+   power-rich regions and store it for later use in power-deficient
+   regions. Our analysis shows that our deployment methods, by exploiting
+   the physical characteristics of wireless recharging, can greatly reduce
+   the number of readers compared with those assuming traditional coverage
+   models.
+RI He, Shibo/AAC-5446-2019
+ZS 0
+ZB 0
+TC 259
+ZR 0
+Z8 14
+Z9 273
+SN 1536-1233
+EI 1558-0660
+UT WOS:000323680200004
+ER
+
+EF
