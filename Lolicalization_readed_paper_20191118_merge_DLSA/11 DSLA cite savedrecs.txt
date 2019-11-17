@@ -1,0 +1,97 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Wang, WJ
+   Yang, YW
+   Wang, L
+   Lu, W
+AF Wang, Wenjuan
+   Yang, Yuwang
+   Wang, Lei
+   Lu, Wei
+TI PMDV-hop: An effective range-free 3D localization scheme based on the
+   particle swarm optimization in wireless sensor network
+SO KSII TRANSACTIONS ON INTERNET AND INFORMATION SYSTEMS
+LA English
+DT Article
+DE Range-free localization; sensitivity of parameters; improved algorithm;
+   intelligent optimization algorithms
+ID NODE LOCALIZATION
+AB Location information of individual nodes is important in the implementation of necessary network functions. While extensive studies focus on localization techniques in 2D space, few approaches have been proposed for 3D positioning, which brings the location closer to the reality with more complex calculation consumptions for high accuracy. In this paper, an effective range-free localization scheme is proposed for 3D space localization, and the sensitivity of parameters is evaluated. Firstly, we present an improved algorithm (MDV-Hop), that the average distance per hop of the anchor nodes is calculated by root-mean-square error (RMSE), and is dynamically corrected in groups with the weighted RMSE based on group hops. For more improvement in accuracy, we expand particle swarm optimization (PSO) of intelligent optimization algorithms to MDV-Hop localization algorithm, called PMDV-hop, in which the parameters (inertia weight and trust coefficient) in PSO are calculated dynamically. Secondly, the effect of various localization parameters affecting the PMDV-hop performance is also present. The simulation results show that PMDV-hop performs better in positioning accuracy with limited energy.
+C1 [Wang, Wenjuan; Yang, Yuwang; Lu, Wei] Nanjing Univ Sci & Technol, Sch Comp Sci & Engn, Nanjing, Jiangsu, Peoples R China.
+   [Wang, Lei] Nanjing Univ Posts & Telecommun, Sch Comp Sci & Technol, Nanjing, Jiangsu, Peoples R China.
+RP Yang, YW (reprint author), Nanjing Univ Sci & Technol, Sch Comp Sci & Engn, Nanjing, Jiangsu, Peoples R China.
+EM yuwangyang@mail.njust.edu.cn
+FU National Natural Science Foundation of ChinaNational Natural Science
+   Foundation of China [61640020, 61671244]; key research and development
+   program of Jiangsu, China [BE2016368-1]; Agricultural Innovation Program
+   of Jiangsu, China [CX(13)3054, CX(14)2114, CX(16)1006]; program of
+   Jiangsu Six Talent Peaks [XYDXXJS-033]
+FX This research was supported by the National Natural Science Foundation
+   of China (No. 61640020, No. 61671244), key research and development
+   program of Jiangsu, China(BE2016368-1), the Agricultural Innovation
+   Program of Jiangsu, China (No. CX(13)3054, CX(14)2114 and CX(16)1006)
+   and the program of Jiangsu Six Talent Peaks (XYDXXJS-033)
+CR Belmecheri F, 2013, J INTELL MANUF, V24, P775, DOI 10.1007/s10845-012-0627-8
+   Boukerche A, 2007, IEEE WIREL COMMUN, V14, P6, DOI 10.1109/MWC.2007.4407221
+   Chakaravarthy GV, 2013, J INTELL MANUF, V24, P175, DOI 10.1007/s10845-011-0552-2
+   Chaurasiya VK, 2014, INFORM FUSION, V15, P5, DOI 10.1016/j.inffus.2013.06.003
+   CHENG HN, 2008, PROC WIR COMM NETW, V999, P1, DOI DOI 10.1109/ICEPT.2008.4607150
+   Cheng W., 2008, P INFOCOM 2008 27 C
+   Chia-Yen Shih, 2010, 2010 Fourth International Conference on Sensor Technologies and Applications (SENSORCOMM 2010), P24, DOI 10.1109/SENSORCOMM.2010.11
+   DELICE Y., 2014, J INTELL MANUF, P1, DOI DOI 10.1007/S10845-014-0959-7
+   Eberhart RC, 2001, IEEE C EVOL COMPUTAT, P81, DOI 10.1109/CEC.2001.934374
+   Gopakumar A, 2008, Institution of Engineering and Technology Conference on Wireless, Mobile and Multimedia Networks, P227, DOI 10.1049/cp:20080185
+   Gopakumar A., 2008, LOCALIZATION WIRELES
+   Guerrero E., 2010, COMPUTER AIDED DRAFT, V1
+   Kulkarni RV, 2011, IEEE T SYST MAN CY C, V41, P262, DOI 10.1109/TSMCC.2010.2054080
+   Kulkarni RV, 2009, IEEE SYS MAN CYBERN, P205, DOI 10.1109/ICSMC.2009.5346107
+   Lederer S, 2009, ACM T SENSOR NETWORK, V5, DOI 10.1145/1614379.1614383
+   Li H., 2007, DISTRIBUTED 3 DIMENS
+   Liu C, 2005, IEEE IPCCC, P59
+   Liu SL, 2013, SCI REP-UK, V3, DOI 10.1038/srep02462
+   Liu Y, 2015, IEEE T PARALL DISTR, V26, P1301, DOI 10.1109/TPDS.2014.2320922
+   Liu Y, 2014, IEEE T VEH TECHNOL, V63, P4574, DOI 10.1109/TVT.2014.2311450
+   Low KS, 2008, 2008 IEEE INTERNATIONAL SYMPOSIUM ON INDUSTRIAL ELECTRONICS, VOLS 1-5, P1820, DOI 10.1109/ISIE.2008.4677205
+   Low KS, 2008, ICNC 2008: FOURTH INTERNATIONAL CONFERENCE ON NATURAL COMPUTATION, VOL 5, PROCEEDINGS, P286, DOI 10.1109/ICNC.2008.670
+   Manolakis DE, 1996, IEEE T AERO ELEC SYS, V32, P1239, DOI 10.1109/7.543845
+   Mautz R, 2007, AD HOC SENS WIREL NE, V3, P141
+   Ou CH, 2013, IEEE SENS J, V13, P466, DOI 10.1109/JSEN.2012.2218100
+   Qingguo Zhang, 2008, 2008 Third International Conference on Communications and Networking in China (CHINACOM), P625, DOI 10.1109/CHINACOM.2008.4685104
+   Quan Liu, 2011, Journal of Computers, V6, P2582, DOI 10.4304/jcp.6.12.2582-2589
+   Samanta S., 2013, IJCSN INT J COMPUTER, V2, P48
+   Samira A., 2012, J BASIC APPL SCI RES, V2, P7795
+   Shi Q, 2009, IEICE ELECTRON EXPR, V6, P167, DOI 10.1587/elex.6.167
+   Singh P.K., 2011, INT J COMPUTER SCI I, V2, P2568, DOI DOI 10.1109/IMTC.2011.5944076
+   Tian C, 2007, LECT NOTES COMPUT SC, V4611, P622
+   Wan Q, 2002, IEICE T COMMUN, VE85B, P1817
+   Wang L., 2012, J COMPUTATIONAL INFO, V8, P2463
+   Zhan ZH, 2009, IEEE T SYST MAN CY B, V39, P1362, DOI 10.1109/TSMCB.2009.2015956
+NR 35
+TC 3
+Z9 3
+U1 0
+U2 6
+PU KSII-KOR SOC INTERNET INFORMATION
+PI GANGNAM-GU
+PA KOR SCI & TECHNOL CTR, 409 ON 4TH FLR, MAIN BLDG, 635-4 YEOKSAM 1-DONG,
+   GANGNAM-GU, SEOUL 00000, SOUTH KOREA
+SN 1976-7277
+J9 KSII T INTERNET INF
+JI KSII Trans. Internet Inf. Syst.
+PD JAN 31
+PY 2018
+VL 12
+IS 1
+BP 61
+EP 80
+DI 10.3837/tiis.2018.01.004
+PG 20
+WC Computer Science, Information Systems; Telecommunications
+SC Computer Science; Telecommunications
+GA FU4AN
+UT WOS:000423795100003
+DA 2019-11-17
+ER
+
+EF

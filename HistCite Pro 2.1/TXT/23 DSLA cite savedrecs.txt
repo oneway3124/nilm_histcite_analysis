@@ -1,0 +1,69 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Wang, WD
+   Zhu, QX
+AF Wang, W. D.
+   Zhu, Q. X.
+TI RSS-based Monte Carlo localisation for mobile sensor networks
+SO IET COMMUNICATIONS
+LA English
+DT Article
+AB Node localisation is a fundamental problem in wireless sensor networks. Many applications require the location information of sensor nodes. Received signal strength (RSS) is a simple and inexpensive approach for localisation purpose. However, the accuracy of RSS measurement is unpredictable owing to the nature of the radio frequency (RF) channel. An RSS-based Monte Carlo localisation scheme is proposed to sequentially estimate the location of mobile nodes, using the log-normal statistical model of RSS measurement. The RSS measurement is treated as the observation model in Monte Carlo method and the mobility feature of nodes as the transition model. Our method is widely applicable because the RSS function is easy to implement on nodes, and the mathematical model for mobile nodes may have non-analytic forms. Simulation results about localisation accuracy and cost show that this scheme is better than other methods.
+C1 [Wang, W. D.; Zhu, Q. X.] Univ Elect Sci & Technol China, Sch Engn & Comp Sci, Chengdu 610054, Peoples R China.
+RP Wang, WD (reprint author), Univ Elect Sci & Technol China, Sch Engn & Comp Sci, Chengdu 610054, Peoples R China.
+EM wdwang@uestc.edu.cn
+CR ALIPPIC V, 2006, P 4 ANN IEEE INT C P, P301
+   Bahl P., 2000, Proceedings IEEE INFOCOM 2000. Conference on Computer Communications. Nineteenth Annual Joint Conference of the IEEE Computer and Communications Societies (Cat. No.00CH37064), P775, DOI 10.1109/INFCOM.2000.832252
+   Bulusu N, 2000, IEEE PERS COMMUN, V7, P28, DOI 10.1109/98.878533
+   CHEN W, 2006, P 1 INT C INN COMP I, P425
+   Coulson AJ, 1998, IEEE T COMMUN, V46, P494, DOI 10.1109/26.664305
+   Doucet A, 2000, STAT COMPUT, V10, P197, DOI 10.1023/A:1008935410038
+   He T., 2003, P 9 ANN INT C MOB CO, P81, DOI DOI 10.1145/938985.938995
+   Hu L., 2004, P 10 ANN INT C MOB C, P45, DOI DOI 10.1145/1023720.1023726
+   KARLSSON R, 2005, P 13 EUR SIGN PROC C
+   Kay S. M., 1993, ESTIMATION THEORY, VI
+   LI X, 2005, P 11 INT C PAR DISTR, P557
+   MIHAYLOVA L, 2006, P 9 INT C INF FUS FL
+   Mondinelli F, 2002, IEEE IMTC P, P823, DOI 10.1109/IMTC.2002.1006948
+   Niculescu D, 2003, TELECOMMUN SYST, V22, P267, DOI 10.1023/A:1023403323460
+   Niculescu D., 2003, P IEEE INFOCOM 2003, P1734
+   Patwari N, 2003, IEEE T SIGNAL PROCES, V51, P2137, DOI 10.1109/TSP.2003.814469
+   Patwari N, 2005, IEEE SIGNAL PROC MAG, V22, P54, DOI 10.1109/MSP.2005.1458287
+   Patwari N, 2003, P 2 ACM INT C WIR SE, P20
+   Priyantha N. B., 2000, P 6 ANN INT C MOB CO, P32, DOI DOI 10.1145/345910.345917
+   Rabaey J.M., 2000, IEEE COMPUT, V33, P42
+   Rappaport T.S., 2002, WIRELESS COMMUNICATI
+   SAVVIDES A., 2002, P 1 ACM INT WORKSH W, P112, DOI DOI 10.1145/570738.570755
+   Sheng XH, 2005, IEEE T SIGNAL PROCES, V53, P44, DOI 10.1109/TSP.2004.838930
+   Thrun S, 2001, ARTIF INTELL, V128, P99, DOI 10.1016/S0004-3702(01)00069-8
+   WELLENHOFF BH, 1997, GLOBAL POSITIONS SYS
+   Yoon J, 2003, P 9 ANN INT C MOB CO, P205
+NR 26
+TC 46
+Z9 63
+U1 0
+U2 9
+PU INST ENGINEERING TECHNOLOGY-IET
+PI HERTFORD
+PA MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD SG1 2AY, ENGLAND
+SN 1751-8628
+EI 1751-8636
+J9 IET COMMUN
+JI IET Commun.
+PD MAY
+PY 2008
+VL 2
+IS 5
+BP 673
+EP 681
+DI 10.1049/iet-com:20070221
+PG 9
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 301ES
+UT WOS:000255879800008
+DA 2019-11-17
+ER
+
+EF

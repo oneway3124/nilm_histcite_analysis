@@ -1,0 +1,78 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Shahzad, F
+   Sheltami, TR
+   Shakshuki, EM
+AF Shahzad, Farrukh
+   Sheltami, Tarek R.
+   Shakshuki, Elhadi M.
+TI DV-maxHop: A Fast and Accurate Range-Free Localization Algorithm for
+   Anisotropic Wireless Networks
+SO IEEE TRANSACTIONS ON MOBILE COMPUTING
+LA English
+DT Article
+DE Wireless sensor networks; Internet of Things; range-free localization;
+   anisotropic network; simulation
+ID SENSOR NETWORKS
+AB Localization awareness is a fundamental requirement in many Internet of Things (IoT) and other wireless sensor applications. The information transmitted by an individual entity or node is of limited use without the knowledge of its location. Research in this area is mostly geared towards multi-hop range-free localization algorithm as that only utilizes connectivity (neighbors) information. This work focuses on anchor-based, range-free localization algorithm, particularly in anisotropic networks. We observe that the pioneer Distance Vector Hop or DV-Hop algorithm, which provides accurate estimation in isotropic networks, can be enhanced to compute localization estimation for anisotropic networks with similar or comparable accuracy. The recently proposed algorithms for anisotropic networks are complex with communication and computational overheads. These algorithms may also be overkill for several location dependent protocols and applications. This paper proposes a scheme, called DV-maxHop, which reaches comparable accuracy quickly utilizing simpler, practical and proven variant of the DV-Hop algorithm. We evaluate the performance of our scheme using extensive simulation on several topologies under the effect of multiple anisotropic factors such as the existence of obstacles, sparse and non-uniform sensor distribution, and irregular radio propagation pattern. Even for isotropic networks, our scheme out-performed recent algorithms with lower computational overheads as well as reduced energy or communication cost due to its faster convergence. We also introduce the formulation and simulation of Multi-objective Optimization to obtain the optimal solution.
+C1 [Shahzad, Farrukh; Sheltami, Tarek R.] King Fahd Univ Petr & Minerals, Dept Comp Engn, Dhahran 3446431261, Saudi Arabia.
+   [Shakshuki, Elhadi M.] Acadia Univ, Jodrey Sch Comp Sci, Wolfville, NS B4P 2R6, Canada.
+RP Shahzad, F (reprint author), King Fahd Univ Petr & Minerals, Dept Comp Engn, Dhahran 3446431261, Saudi Arabia.
+EM farrukhshahzad@kfupm.edu.sa; tarek@kfupm.edu.sa;
+   elhadi.shakshuki@acadiau.ca
+RI Sheltami, Tarek/Y-1665-2019
+OI Sheltami, Tarek/0000-0002-7879-1469; Shakshuki,
+   Elhadi/0000-0002-0226-075X
+CR Ahmed A., 2004, P IEEE INT C MOB AD, P184
+   Arbula D, 2013, INT J DISTRIB SENS N, DOI 10.1155/2013/797354
+   Benameur L, 2009, Proceedings of the 2009 First International Conference on Computational Intelligence, Modelling and Simulation. CSSim 2009 Information Getting Started, P48, DOI 10.1109/CSSim.2009.42
+   Gungor VC, 2010, IEEE T IND ELECTRON, V57, P3557, DOI 10.1109/TIE.2009.2039455
+   he T., 2000, ACM T EMBED COMPUT S, V4, P877, DOI DOI 10.1145/1113830.1113837
+   Hou J., 2005, P IEEE 24 ANN JOINT, V1, P138
+   Hu W, 2015, IEEE T EVOLUT COMPUT, V19, P1, DOI 10.1109/TEVC.2013.2296151
+   Hu Y, 2013, TELECOMMUN SYST, V53, P13, DOI 10.1007/s11235-013-9671-8
+   Kumar A, 2015, APPL SOFT COMPUT, V34, P438, DOI 10.1016/j.asoc.2015.05.025
+   Lee S., 2015, WIRELESS NETW
+   Li M, 2010, IEEE ACM T NETWORK, V18, P320, DOI 10.1109/TNET.2009.2024940
+   Liu X., 2015, TELECOMMUN SYST
+   Nagpal R, 2003, LECT NOTES COMPUT SC, V2634, P333
+   Niculescu D, 2003, TELECOMMUN SYST, V22, P267, DOI 10.1023/A:1023403323460
+   Sahu PK, 2013, IEEE SENS J, V13, P3115, DOI 10.1109/JSEN.2013.2257731
+   Shahzad F., 2016, IEEE INTERNET THINGS
+   Shahzad F, 2016, J AMB INTEL HUM COMP, V7, P445, DOI 10.1007/s12652-016-0349-4
+   Shakshuki EM, 2013, IEEE T IND ELECTRON, V60, P1089, DOI 10.1109/TIE.2012.2196010
+   Shang Y, 2004, IEEE INFOCOM SER, P2640
+   Stoleru R, 2012, IEEE T PARALL DISTR, V23, P634, DOI 10.1109/TPDS.2011.227
+   Valh D., 2009, APPL SCI, P333
+   Xiao B, 2010, IEEE T MOBILE COMPUT, V9, P60, DOI 10.1109/TMC.2009.100
+   Xiao QJ, 2010, IEEE T MOBILE COMPUT, V9, P1592, DOI 10.1109/TMC.2010.129
+   Yu N, 2006, 2006 IEEE INTERNATIONAL CONFERENCE ON INFORMATION ACQUISITION, VOLS 1 AND 2, CONFERENCE PROCEEDINGS, P638, DOI 10.1109/ICIA.2006.305800
+NR 24
+TC 19
+Z9 20
+U1 1
+U2 21
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1536-1233
+EI 1558-0660
+J9 IEEE T MOBILE COMPUT
+JI IEEE. Trans. Mob. Comput.
+PD SEP
+PY 2017
+VL 16
+IS 9
+BP 2494
+EP 2505
+DI 10.1109/TMC.2016.2632715
+PG 12
+WC Computer Science, Information Systems; Telecommunications
+SC Computer Science; Telecommunications
+GA FD2XW
+UT WOS:000407399100008
+DA 2019-11-17
+ER
+
+EF

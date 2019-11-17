@@ -1,0 +1,75 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Chen, LY
+   Li, M
+   Liu, K
+   Liu, ZL
+   Zhang, JY
+   Peng, T
+   Liu, Y
+   Xu, YJ
+   Luo, Q
+   He, T
+AF Chen, Liangyin
+   Li, Miao
+   Liu, Kai
+   Liu, Zhenlei
+   Zhang, Jingyu
+   Peng, Tong
+   Liu, Yan
+   Xu, Yongjun
+   Luo, Qian
+   He, Tian
+TI Distributed range-free localisation algorithm for wireless sensor
+   networks
+SO ELECTRONICS LETTERS
+LA English
+DT Article
+AB A novel distributed range-free localisation algorithm to accurately locate regular nodes in wireless sensor networks is presented. Existing methods reduce the possible area where a regular node would be located by using anchors (i.e. nodes with known locations) only. These methods are effective only when anchor density is high. In contrast, the work presented here reduces the possible area of a regular node iteratively, using both anchor node locations and the possible areas of its neighbouring and non-neighbouring 'regular' nodes from early iteration. This allows a significant improvement in the localisation accuracy. Simulations verify the advantage of the proposed algorithm and show that the localisation error can be controlled within 15% with off-the-shelf devices.
+C1 [Chen, Liangyin; Li, Miao; Liu, Zhenlei; Zhang, Jingyu; Peng, Tong] Sichuan Univ, Sch Comp Sci, Chengdu 610064, Peoples R China.
+   [Liu, Kai] Sichuan Univ, Sch Elect Engn & Informat, Chengdu 610064, Peoples R China.
+   [Liu, Yan] Peking Univ, Sch Software & Microelect, Beijing 100871, Peoples R China.
+   [Xu, Yongjun] Chinese Acad Sci, Inst Comp Technol, Wireless Sensor Network Lab, Beijing, Peoples R China.
+   [Luo, Qian] Second Res Inst Gen Adm Civil Aviat China, Informat Technol Branch, Chengdu, Peoples R China.
+   [He, Tian] Univ Minnesota Twin City, Dept Comp Sci & Engn, Minneapolis, MN USA.
+RP Chen, LY (reprint author), Sichuan Univ, Sch Comp Sci, Chengdu 610064, Peoples R China.
+EM chenliangyin@gmail.com
+FU China NSFNational Natural Science Foundation of China [61373091,
+   61202478, 60933011, 11102124]; US NSFNational Science Foundation (NSF)
+   [CNS-0917097]
+FX Supported in part by the China NSF 61373091, 61202478, 60933011,
+   11102124 and the US NSF CNS-0917097.
+CR Chen L., 2012, IEEE COMM SOC C SENS
+   Giorgetti G., 2007, INT C INF PROC SENS
+   he T., 2000, ACM T EMBED COMPUT S, V4, P877, DOI DOI 10.1145/1113830.1113837
+   Niculescu D, 2003, TELECOMMUN SYST, V22, P267, DOI 10.1023/A:1023403323460
+   Simic Slobodan N., 2002, TECHNICAL REPORT
+NR 5
+TC 6
+Z9 6
+U1 2
+U2 22
+PU INST ENGINEERING TECHNOLOGY-IET
+PI HERTFORD
+PA MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD SG1 2AY, ENGLAND
+SN 0013-5194
+EI 1350-911X
+J9 ELECTRON LETT
+JI Electron. Lett.
+PD JUN 5
+PY 2014
+VL 50
+IS 12
+BP 894
+EP +
+DI 10.1049/el.2014.0787
+PG 3
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA AJ7XE
+UT WOS:000337913400030
+DA 2019-11-17
+ER
+
+EF

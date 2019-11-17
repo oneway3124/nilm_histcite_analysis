@@ -1,0 +1,96 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Kulakowski, P
+   Vales-Alonso, J
+   Egea-Lopez, E
+   Ludwin, W
+   Garcia-Haro, J
+AF Kulakowski, Pawel
+   Vales-Alonso, Javier
+   Egea-Lopez, Esteban
+   Ludwin, Wieslaw
+   Garcia-Haro, Joan
+TI Angle-of-arrival localization based on antenna arrays for wireless
+   sensor networks
+SO COMPUTERS & ELECTRICAL ENGINEERING
+LA English
+DT Article
+DE Wireless sensor networks; Localization techniques; Angle of arrival;
+   Smart antennas; Outdoor environments
+AB Among the large number of contributions concerning the localization techniques for wireless sensor networks (WSNs) there is still no simple energy and cost efficient solution suitable in outdoor scenarios In this paper a technique based on antenna arrays and angle-of-arrival (AoA) measurements is carefully discussed While the AoA algorithms are rarely considered for WSNs due to the large dimensions of directional antennas some system configurations are investigated that can be easily incorporated in pocket size wireless devices
+   A heuristic weighting function that enables decreasing the location errors is Introduced Also the detailed performance analysis of the presented system is provided The localization accuracy is validated through realistic Monte-Carlo simulations that take into account the specificity of propagation conditions in WSNs as well as the radio noise effects Finally trade-offs between the accuracy localization time and the number of anchors in a network are addressed (C) 2010 Elsevier Ltd All rights reserved
+C1 [Kulakowski, Pawel; Ludwin, Wieslaw] AGH Univ Sci & Technol, Dept Telecommun, Krakow, Poland.
+   [Vales-Alonso, Javier; Egea-Lopez, Esteban; Garcia-Haro, Joan] Polytech Univ Cartagena, Dept Informat Technol & Commun, Cartagena, Spain.
+RP Kulakowski, P (reprint author), AGH Univ Sci & Technol, Dept Telecommun, Krakow, Poland.
+RI Kulakowski, Pawel/B-1543-2013; Ludwin, Wieslaw/C-5096-2013;
+   Gonzalez-Castano, Francisco J./D-2637-2018; Garcia-Haro,
+   Joan/D-3503-2015
+OI Kulakowski, Pawel/0000-0003-0362-3396; Garcia-Haro,
+   Joan/0000-0003-0741-7530; Vales-Alonso, Javier/0000-0002-8761-7235;
+   Egea-Lopez, Esteban/0000-0002-6926-4923
+FU Polish project [179/N-COST/2008/0, DWM/MOB17/II/2008]; Spanish grant
+   [TEC2007-67966-01/TCM (CON-PARTE-1)]
+FX This work was supported by Polish project grants 179/N-COST/2008/0 and
+   DWM/MOB17/II/2008 It was also supported by Spanish grant
+   TEC2007-67966-01/TCM (CON-PARTE-1) and developed in the framework of
+   Programa de Ayudas a Grupos de Exelencia de la Region de Murcia
+   Fundacion Seneca
+CR AWAD A, 2007, P 10 EUR C DIG SYST
+   Balanis C, 1997, ANTENNA THEORY ANAL
+   Boukerche A, 2009, IEEE WIREL COMMUN, V16, P50, DOI 10.1109/MWC.2009.4907560
+   Elnahrawy E, 2007, 2007 2ND INTERNATIONAL SYMPOSIUM ON WIRELESS PERVASIVE COMPUTING, VOLS 1 AND 2, P464
+   Frampton KD, 2006, IEEE SENS J, V6, P166, DOI 10.1109/JSEN.2005.860361
+   Gezici S, 2005, IEEE SIGNAL PROC MAG, V22, P70, DOI 10.1109/MSP.2005.1458289
+   Gezici S, 2008, WIRELESS PERS COMMUN, V44, P263, DOI 10.1007/s11277-007-9375-z
+   Hartung C., 2006, MobiSys2006. The Fourth International Conference on Mobile Systems, Applications and Services, P28
+   Hightower J, 2001, COMPUTER, V34, P57, DOI 10.1109/2.940014
+   Karl H., 2005, PROTOCOLS ARCHITECTU
+   Kucuk K, 2008, IEEE RADIO WIRELESS, P483, DOI 10.1109/RWS.2008.4463534
+   Langendoen K, 2003, COMPUT NETW, V43, P499, DOI 10.1016/S1389-1286(03)00356-6
+   Lazos L, 2005, ACM TRANS SENS NETW, V1
+   Mainwaring A., 2002, P 1 ACM INT WORKSH W, P88, DOI DOI 10.1145/570738.570751
+   Mangas E, 2009, INT CON DISTR COMP S, P289, DOI 10.1109/ICDCS.2009.33
+   Nasipuri A., 2002, P 1 ACM INT WORKSH W, P105, DOI DOI 10.1145/570738.570754
+   Niculescu D, 2003, IEEE INFOCOM SER, P1734
+   Niculescu D, 2001, GLOB TELECOMM CONF, P2926, DOI 10.1109/GLOCOM.2001.965964
+   Patwari N, 2005, IEEE SIGNAL PROC MAG, V22, P54, DOI 10.1109/MSP.2005.1458287
+   Qu H., 2006, P IEEE C MOB ADH SEN, P627
+   Rahman MZ, 2009, IEEE T MOBILE COMPUT, V8, P1087, DOI 10.1109/TMC.2008.173
+   ROMER K, 2003, 1 INT C MOB SYST APP, P15
+   Rong Peng, 2006, 2006 3rd Annual IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networks (IEEE Cat. No. 06EX1523), P374
+   SABATTO SZ, 2009, IEEE S COMP INT MULT
+   Stojmenovic I, 2005, WILEY SER PARA DIST, P1
+   Verdone R., 2008, WIRELESS SENSOR ACTU
+   Wang C, 2007, IEEE NETWORK, V21, P16, DOI 10.1109/MNET.2007.364254
+   MICAZ CC2420 2 4 GHZ
+   E MORANS SCENARIOS I
+NR 29
+TC 102
+Z9 105
+U1 2
+U2 25
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0045-7906
+EI 1879-0755
+J9 COMPUT ELECTR ENG
+JI Comput. Electr. Eng.
+PD NOV
+PY 2010
+VL 36
+IS 6
+BP 1181
+EP 1186
+DI 10.1016/j.compeleceng.2010.03.007
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science,
+   Interdisciplinary Applications; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA 681SW
+UT WOS:000284340200016
+DA 2019-11-17
+ER
+
+EF

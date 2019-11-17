@@ -1,0 +1,69 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT S
+AU Mirebrahim, H
+   Dehghan, M
+AF Mirebrahim, Hamid
+   Dehghan, Mehdi
+BE Ruiz, PM
+   GarciaLunaAceves, JJ
+TI Monte Carlo Localization of Mobile Sensor Networks Using the Position
+   Information of Neighbor Nodes
+SO AD-HOC, MOBILE AND WIRELESS NETWORKS, PROCEEDINGS
+SE Lecture Notes in Computer Science
+LA English
+DT Proceedings Paper
+CT 8th International Conference on Ad-Hoc Networks and Wireless (ADHOC-NOW
+   2009)
+CY SEP 16-19, 2009
+CL Univ Murcia, Murcia, SPAIN
+SP Univ Murcia, Dept Informat & Commun Engn, Univ Murcia, Vicerrectorado Invest
+HO Univ Murcia
+DE Mobile sensor network; Localization; Sequential Monte Carlo method
+AB Localization is a fundamental problem in wireless sensor networks Most existing localization algorithm is designed for static sensor networks There are,I few localization methods for mobile sensor networks However. Sequential Monte Carlo method (SMC) has been used in localization of mobile sensor networks recently In this paper, we propose a localization algonthm based oil SMC which call Improve the location accuracy A new method is used for sample generation In that, samples distribute.; uniformly over the area from which samples are drawn instead of random generation of samples in that area this can reduces the number of required samples. besides, this new sample enables the algorithm to estimate the maximum location generation method en, error of each node more accurately Our algorithm also uses the location estimation of non-anchor neighbor nodes more efficiently than other algorithms This call Improve the localization estimation accuracy highly
+C1 [Mirebrahim, Hamid; Dehghan, Mehdi] Amir Kabir Univ Technol, Dept Comp Engn, Tehran, Iran.
+RP Mirebrahim, H (reprint author), Amir Kabir Univ Technol, Dept Comp Engn, Tehran, Iran.
+EM Hamire@aut.ac.ir; Dehghan@aut.ac.ir
+CR Baggio A, 2006, LECT NOTES COMPUT SC, V4325, P317
+   Camp T., 2002, WIRELESS COMMUNICATI, V2
+   Dellaert F., 1999, IEEE INT C ROB AUT I
+   HANDSCHIN JE, 1970, AUTOMATICA, V6, P555, DOI 10.1016/0005-1098(70)90010-5
+   HEFEEDA M., 2007, IEEE INT C MOB ADH S, P1
+   Hu L., 2004, 10 INT C MOB COMP NE, P45
+   JUANG P, 2002, P 10 INT C ARCH SUPP, P96, DOI DOI 10.1145/605397.605408
+   MO L, 2007, P 13 ANN ACM INT C M, P51
+   Pace S, 1995, GLOBAL POSITIONING S, P237
+   PANDEY S, 2006, J CHIN INST ENG, P1125
+   PENG R, 2004, 1 IEEE C MOB AD HOC
+   Rudafshani M, 2007, PROCEEDINGS OF THE SIXTH INTERNATIONAL SYMPOSIUM ON INFORMATION PROCESSING IN SENSOR NETWORKS, P51, DOI 10.1109/IPSN.2007.4379664
+   STEVENS N, 2007, WIR COMM NETW C
+   WANG W, 2007, 2 INT MULT COMP COMP, P490
+   YI J, 2007, 4 ANN IEEE COMM SOC, P162
+   Yick J, 2008, COMPUT NETW, V52, P2292, DOI 10.1016/j.comnet.2008.04.002
+   YIHAN L, 2005, IEEE INT C COMM, P1241
+   ZHANG S, 2008, 5 ANN IEEE SENS MESH, P37
+NR 18
+TC 11
+Z9 11
+U1 0
+U2 0
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 1611-3349
+BN 978-3-642-04382-6
+J9 LECT NOTES COMPUT SC
+PY 2009
+VL 5793
+BP 270
+EP 283
+PG 14
+WC Computer Science, Theory & Methods; Telecommunications
+SC Computer Science; Telecommunications
+GA BNV81
+UT WOS:000275676600020
+DA 2019-11-17
+ER
+
+EF

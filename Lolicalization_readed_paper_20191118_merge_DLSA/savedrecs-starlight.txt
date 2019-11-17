@@ -1,0 +1,38 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Tianxing Li
+   Qiang Liu
+   Xia Zhou
+TI Practical Human Sensing in the Light
+SO GetMobile: Mobile Computing and Communications
+VL 20
+IS 4
+BP 28
+EP 33
+DI 10.1145/3081016.3081027
+PD Oct. 2016
+PY 2016
+AB StarLight is an infrastructure-based sensing system that reuses light
+   emitted from ceiling LED panels to reconstruct fine-grained user
+   skeleton postures continuously in real time. It leverages only a few
+   (e.g., 20) photodiodes at optimized locations on the floor to capture
+   low-level visual cues (light blockage information), with neither
+   invasive cameras nor on-body sensors. It aggregates the blockage
+   information of different light rays and identifies the best-fit 3D
+   skeleton postures. Experiments show that StarLight achieves 13.6deg mean
+   angular error for five body joints and reconstructs a mobile skeleton at
+   a high frame rate (40 FPS). StarLight presents a new unobtrusive sensing
+   paradigm to augment today's mobile sensing for continuous and accurate
+   behavioral monitoring.
+Z8 0
+ZB 0
+ZS 0
+ZR 0
+TC 0
+Z9 0
+SN 2375-0529
+UT INSPEC:17133733
+ER
+
+EF
