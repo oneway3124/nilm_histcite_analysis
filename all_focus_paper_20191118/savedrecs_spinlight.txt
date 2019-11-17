@@ -1,0 +1,93 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT B
+AU Xie, B
+   Tan, G
+   He, T
+AF Xie, Bo
+   Tan, Guang
+   He, Tian
+GP ACM
+TI SpinLight: A High Accuracy and Robust Light Positioning System for
+   Indoor Applications
+SO SENSYS'15: PROCEEDINGS OF THE 13TH ACM CONFERENCE ON EMBEDDED NETWORKED
+   SENSOR SYSTEMS
+LA English
+DT Proceedings Paper
+CT 13th ACM Conference on Embedded Networked Sensor Systems (SenSys)
+CY NOV 04-04, 2015
+CL Seoul, SOUTH KOREA
+SP ACM SIGARCH, ACM SIGBED, ACM SIGCOMM, ACM SIGMETRICS, ACM SIGMOBILE, ACM SIGOPS, Golfzon, NSF, KAIST Sch Comp, KAIST Ctr Mobile Software Platform, KT, Naver Labs, Samsung Electronics, SK Telecom, Seoul Metropolitan Govt, Korea Tourism Org, Kyungpook Nat Univ CSOS, DGIST
+DE Indoor positioning; Light; Sensing
+AB This paper presents SpinLight, an indoor positioning system that uses infrared LED lamps as signal transmitters, and light sensors as receivers. The main idea is to divide the space into spatial beams originating from the light source, and identify each beam with a unique timed sequence of light signals. This sequence is created by a coded shade that covers and rotates around the LED, blocking the light or allowing it to pass through according to pre-defined patterns. The receiver, equipped with a light sensor, is able to determine its spatial beam by detecting the light signals, followed by optimization schemes to refine its location within that beam. We present both 2D and 3D localization designs, demonstrated by a prototype implementation. Experiments show that SpinLight produces a median location error of 3.8 cm, with a 95th percentile of 6.8 cm. The receiver design is very low power and thus can operate for months to years from a button coin battery.
+C1 [Xie, Bo] Univ Chinese Acad Sci, SIAT, Chinese Acad Sci, Beijing, Peoples R China.
+   [Tan, Guang] Chinese Acad Sci, SIAT, Shenzhen, Peoples R China.
+   [He, Tian] Univ Minnesota Twin Cities, Minneapolis, MN 55455 USA.
+RP Xie, B (reprint author), Univ Chinese Acad Sci, SIAT, Chinese Acad Sci, Beijing, Peoples R China.
+EM bo.xie@siat.ac.cn; guang.tan@siat.ac.cn; tianhe@cs.umn.edu
+CR Analog Devices Inc, 2007, ADXL330 SMALL LOW PO
+   [Anonymous], 2013, NRF8001 PROD SPEC 1
+   [Anonymous], VEXT PK245 TECHN DAT
+   Armstrong J., 2013, IEEE COMMUNICATIONS, V51
+   Bahl P, 2000, INFOCOM
+   Barry J. R., 1994, WIRELESS INFRARED CO
+   Biswas J., 2010, IEEE INT C ROB AUT I
+   Borriello G., 2005, MOBISYS
+   Carroll A., USENIX ANN TECHN C 2
+   Chen Yin, 2012, ACM MOBISYS
+   Chung J., 2011, MOBISYS
+   Henry M, 2012, IEEE MILIT COMMUN C
+   Intersil, 2012, ISL29023 DAT
+   Jovicic A., 2013, IEEE COMMUNICATIONS, V51
+   Kuo Y.-S., 2014, MOBICOM
+   Li L., P NSDI 2014
+   LiKam Wa R., P MOBISYS 2013
+   Mariakakis A., 2014, MOBISYS
+   Ni L., 2004, WINET
+   Niculescu D, 2003, IEEE INFOCOM SER, P1734
+   Niculescu D., 2004, ACM MOBICOM
+   Priyantha N. B., 2000, ACM MOBICOM
+   Rajagopal N., 2014, IPSN
+   Romer K., 2003, ACM MOBISYS 2003
+   Sen Souvik, 2013, ACM MOBISYS
+   STMicroelectronics, 2009, L1S33DE DAT
+   STMicroelectronics, 2008, STM32 MCU FAM 32 BIT
+   Stoleru R., 2005, ACM SENSYS 2005
+   Tarzia S. P. a., 2011, ACM MOBISYS
+   Top D, MAPPING INDOOR MARKE
+   Varshavskya A., 2007, PERVASIVE MOBILE COM
+   Wang J., 2013, P ACM SIGCOMM
+   Wang J., 2013, ACM MOBICOM
+   WANT R, 1992, ACM T INFORM SYST, V10, P91, DOI 10.1145/128756.128759
+   Ward A, 1997, IEEE PERS COMMUN, V4, P42, DOI 10.1109/98.626982
+   Wu K, 2012, IEEE INFOCOM
+   Xie B., LIPS LIGHT INTENSITY
+   Xiong Jie, 2013, USENIX NSDI
+   Yang L., 2014, P MOBICOM
+   Yang  S.-H., 2013, ELECT LETT, V49
+   Yang S-H., 2013, IEEE COMMUNICATIONS, V17
+   Yoshino M., 2008, IEEE RAD WIR S RWS
+   Youssef M., 2005, MOBISYS
+   Zhou Z, 2012, OPT ENG, V51, DOI 10.1117/1.OE.51.8.085009
+NR 44
+TC 15
+Z9 15
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036-9998 USA
+BN 978-1-4503-3631-4
+PY 2015
+BP 211
+EP 223
+DI 10.1145/2809695.2809713
+PG 13
+WC Computer Science, Theory & Methods; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA BF4AQ
+UT WOS:000380612400018
+DA 2019-11-17
+ER
+
+EF

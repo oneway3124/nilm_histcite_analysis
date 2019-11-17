@@ -1,0 +1,83 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU HART, GW
+AF HART, GW
+TI NONINTRUSIVE APPLIANCE LOAD MONITORING
+SO PROCEEDINGS OF THE IEEE
+LA English
+DT Article
+AB A nonintrusive appliance load monitor determines the energy consumption of individual appliances turning on and off in an electric load, based on detailed analysis of the current and voltage of the total load, as measured at the interface to the power source. The approach has been developed to simplify the collection of energy consumption data by utilities, but also has other applications. It is called nonintrusive to contrast it with previous techniques for gathering appliance load data, which require placing sensors on individual appliances, and hence an intrusion onto the energy consumer's property.
+   An interesting aspect of this research is the interdisciplinary manner in which it combines power systems theory and communications theory-power consumption is decoded as an act of information transfer. The theory and current practice of nonintrusive appliance load monitoring is described, including goals, applications, load models, appliance signatures, algorithms, prototypes, field-test results, current research directions, and the advantages and disadvantages of this approach relative to intrusive monitoring, Because of its many advantages, we expect that nonintrusive techniques will supersede conventional intrusive techniques for a wide variety of load monitoring applications.
+C1 COLUMBIA UNIV,CTR TELECOMMUN RES,NEW YORK,NY 10027.
+RP HART, GW (reprint author), COLUMBIA UNIV,DEPT ELECT ENGN,NEW YORK,NY 10027, USA.
+CR ABBOTT RE, 1989, EPRI CU6623 REP
+   ANDREWS CJ, 1988, NONINTRUSIVE MONITOR
+   Blake A., 1987, VISUAL RECONSTRUCTIO
+   BOULOUTAS A, 1991, IEEE T INFORM THEORY, V37, P430, DOI 10.1109/18.75270
+   BOULOUTAS A, IN PRESS IEEE T COMM
+   BROWN D, 1983, THESIS MIT
+   CARMICHAEL L, 1990, EPRI J           SEP, P45
+   CHEN MS, 1981, EPRI EL2036 REP
+   FARUQUI A, 1990, EPRI CU6953 REP, P2
+   FRENZEL JF, 1987, P INT TEST C
+   GAREY M. R., 1979, COMPUTER INTRACTABIL
+   GELLER HS, 1986, IEEE TECHNOLOGY  MAR, P4
+   GELLINGS CW, 1987, LOAD MANAGEMENT
+   GODEHARDT E, 1988, GRAPHS STRUCTURAL MO
+   Hart G. W., 1985, PROTOTYPE NONINTRUSI
+   Hart G. W., 1989, U.S. Patent, Patent No. [4 858 141, 4858141]
+   Hart G. W., 1984, NONINTRUSIVE APPLIAN
+   HART GW, 1989, IEEE TECHNOLOGY  JUN, P12
+   HART GW, 1985, DIGITAL AC MONITOR
+   HART GW, 1987, METHOD ESTIMATING OP
+   HART GW, 1991, P INFORM AUTOMAT C
+   HART GW, 1993, IEEE T INFORM THEORY
+   HART GW, 1985, P INT LOAD MANAGEMEN
+   HART GW, 1987, MIT1664 DEP EE CS LA
+   HART GW, 1987, Patent No. 4672555
+   HART GW, 1987, MIT TR87012 LAB EL E
+   HART GW, UNPUB DETERMINING ST
+   JONES RH, 1989, INFORM AUTOMATION TE
+   KERN E, 1963, JUN LOAD RES S CHIC
+   LAWRENCE AG, 1984, EPRI EA3410 TECH REP
+   McEachern A, 1988, HDB POWER SIGNATURES
+   MEIER A, 1992, ENERGY, V17, P509, DOI 10.1016/0360-5442(92)90087-G
+   MOHAN N, 1986, EPRI EM4704 REP
+   MORGAN MG, 1979, IEEE P, V67
+   PARKS T, 1988, EPRI EM5699 TECH REP
+   SIWKO J, 1986, THESIS MIT
+   STICKELS TD, 1987, EPRI EM5392 TECH REP
+   SULTANEM F, 1991, WIN IEEE POW ENG SOC
+   TABORS R, UNPUB MIT FINAL REPO
+   Van Trees H. L., 1968, DETECTION ESTIMATION
+   VITERBI A, 1979, PRINCIPLES DIGITAL C
+   WALLACE CS, 1968, COMPUT J, V11, P185, DOI 10.1093/comjnl/11.2.185
+   078471 ED EL I
+NR 43
+TC 931
+Z9 973
+U1 13
+U2 32
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9219
+J9 P IEEE
+JI Proc. IEEE
+PD DEC
+PY 1992
+VL 80
+IS 12
+BP 1870
+EP 1891
+DI 10.1109/5.192069
+PG 22
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA KL371
+UT WOS:A1992KL37100002
+DA 2019-11-17
+ER
+
+EF
