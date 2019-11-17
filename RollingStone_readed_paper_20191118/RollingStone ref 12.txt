@@ -1,0 +1,49 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Chen, Yanru
+   Yan, Bingshu
+   Wei, Liangxiong
+   Guo, Min
+   Yin, Feng
+   Luo, Qian
+   Wang, Wei
+   Chen, Liangyin
+TI DSLA: Dynamic Sampling Localization Algorithm Based on Virtual Anchor
+   Node
+SO KSII TRANSACTIONS ON INTERNET AND INFORMATION SYSTEMS
+VL 13
+IS 10
+BP 4940
+EP 4957
+DI 10.3837/tiis.2019.10.007
+PD OCT 31 2019
+PY 2019
+AB Compared with the localization methods in the static sensor networks,
+   node localization in dynamic sensor networks is more complicated due to
+   the mobility of the nodes. Dynamic Sampling Localization Algorithm Based
+   on Virtual Anchor (DSLA) is proposed in this paper to localize the
+   unknown nodes in dynamic sensor networks. Firstly, DSLA algorithm
+   predicts the speed and movement direction of nodes to determine a sector
+   sampling area. Secondly, a method of calculating the sampling quantity
+   with the size of the sampling area dynamically changing is proposed in
+   this paper. Lastly, the virtual anchor node, i.e., the unknown node that
+   got the preliminary possible area (PLA), assists the other unknown nodes
+   to reduce their PLAs. The last PLA is regarded as a filtering condition
+   to filter out the conflicting sample points quickly. In this way, the
+   filtered sample is close to its real coordinates. The simulation results
+   show that the DSLA algorithm can greatly improve the positioning
+   performance when ensuring the execution time is shorter and the
+   localization coverage rate is higher. The localization error of the DSLA
+   algorithm can be dropped to about 20%.
+Z8 0
+ZR 0
+ZS 0
+ZB 0
+TC 0
+Z9 0
+SN 1976-7277
+UT WOS:000493813800007
+ER
+
+EF
