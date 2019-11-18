@@ -1,0 +1,77 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT S
+AU Singh, SP
+   Sharma, SC
+AF Singh, Santar Pal
+   Sharma, S. C.
+BE Soni, AK
+   Lobiyal, DK
+TI Range Free Localization Techniques in Wireless Sensor Networks: A Review
+SO 3RD INTERNATIONAL CONFERENCE ON RECENT TRENDS IN COMPUTING 2015
+   (ICRTC-2015)
+SE Procedia Computer Science
+LA English
+DT Proceedings Paper
+CT 3rd International Conference on Recent Trends in Computing (ICRTC)
+CY MAR 12-13, 2015
+CL Delhi, INDIA
+SP SRM Univ, NCR Campus, Dept Comp Sci & Engn
+DE wireless sensor networks; range free localization; localization
+   algorithms; range; accuracy
+AB Recent developments in micro electro mechanical systems (MEMS) technology and wireless communication have propelled the growing applications of wireless sensor networks (WSNs). Wireless sensor network is comprised of large number of small and cheap devices known as sensors. One of the important functions of sensor network is collection and forwarding of data. In most of the applications, it is of much interest to find out the location of the data. This type of information can be obtained by use of localization techniques. So node localization is very crucial to find out the position of node with the help of localization algorithms. Hence, node localization becomes one of the fundamental challenges in WSNs. We make the rigorous reviews on different schemes of localization in sensor networks. On the basis of range measurements, the localization schemes can be broadly classified in two categories such as: range based and range free schemes. The cost and hardware limitation on sensing node preclude the use of range based localization schemes. In most of the sensor network application coarse accuracy is sufficient so range free localization schemes are considered as a substitute to range based schemes. In this paper, the detailed study has been carried out to understand and select the best range free localization algorithm for WSNs. At the end some issues are discussed for future research in the area of localization techniques for WSNs. (C) 2015 The Authors. Published by Elsevier B.V.
+C1 [Singh, Santar Pal; Sharma, S. C.] Indian Inst Technol, Elect & Comp Discipline, DPT, Roorkee 247667, Uttar Pradesh, India.
+RP Singh, SP (reprint author), Indian Inst Technol, Elect & Comp Discipline, DPT, Roorkee 247667, Uttar Pradesh, India.
+CR Akyndiz I.F., 2002, COMPUTER NETWORKS, V38, P395
+   Alhmiedat T.A., 2007, 8 NAT NETW S
+   Alippi Cesare, 2006, P 4 IEEE INT C PERV
+   Alrajeh NA, 2013, INT J DISTRIB SENS N, DOI 10.1155/2013/304628
+   Bulusu N, 2000, IEEE PERS COMMUN, V7, P28, DOI 10.1109/98.878533
+   Elnabrawy E, 2004, 2004 FIRST ANNUAL IEEE COMMUNICATIONS SOCIETY CONFERENCE ON SENSOR AND AD HOC COMMUNICATIONS AND NETWORKS, P406, DOI 10.1109/SAHCN.2004.1381942
+   He T., 2003, P 9 ANN INT C MOB CO, P81, DOI DOI 10.1145/938985.938995
+   Hu L., 2004, P 10 ANN INT C MOB C, P45, DOI DOI 10.1145/1023720.1023726
+   Huang QQ, 2006, IEEE VTS VEH TECHNOL, P349
+   Jing Wang, 2010, Journal of Control Theory and Applications, V8, P2, DOI 10.1007/s11768-010-9187-7
+   Kannan AA, 2006, J COMPUT, V1, P15, DOI 10.4304/jcp.1.2.15-22
+   Labraoui N, 2012, T EMERG TELECOMMUN T, V23, P303, DOI 10.1002/ett.1532
+   Langendoen K, 2003, COMPUT NETW, V43, P499, DOI 10.1016/S1389-1286(03)00356-6
+   Liu J., 2006, MOBIHOC 2006. Proceedings of the Seventh ACM International Symposium on Mobile Ad Hoc Networking and Computing, P250
+   Mao GQ, 2007, COMPUT NETW, V51, P2529, DOI 10.1016/j.comnet.2006.11.018
+   MOORE D, 2004, P 2 ACM C EMB NETW S
+   Niculescu D, 2003, TELECOMMUN SYST, V22, P267, DOI 10.1023/A:1023403323460
+   Pal A., 2010, NETW PROTOC ALGORITH, V2, P45, DOI DOI 10.5296/NPA.V2I1.279
+   Priyatitha N.B., 2003, TR892 MIT LAB COMP S
+   Samira A., 2012, J BASIC APPL SCI RES, V2, P7795
+   Savarese C, 2002, USENIX ASSOCIATION PROCEEDINGS OF THE GENERAL TRACK, P317
+   Savvides A., 2002, P 1 ACM INT WORKSH W, P112, DOI [DOI 10.1145/570738.570755, 10.1145/570738.570755]
+   Shang Y., 2003, P ACM S MOB AD HOC N
+   Stoleru R, 2007, ADV INFORM SECUR, V30, P3
+   TANVIR S, 2012, MIDDLE EAST J SCI RE, V12, P131, DOI DOI 10.5829/idosi.mejsr.2012.12.2.1614
+   Tareq Ali, 2007, SURVEY LOCALIZATION
+   Wellenhof B. H., 1997, GLOBAL POSITIONING S
+   Youssef A., 2007, P INT C WIR NETW ICW
+NR 28
+TC 34
+Z9 34
+U1 3
+U2 10
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1877-0509
+J9 PROCEDIA COMPUT SCI
+PY 2015
+VL 57
+BP 7
+EP 16
+DI 10.1016/j.procs.2015.07.357
+PG 10
+WC Computer Science, Theory & Methods
+SC Computer Science
+GA BD5NJ
+UT WOS:000361632400001
+OA Bronze
+DA 2019-11-17
+ER
+
+EF

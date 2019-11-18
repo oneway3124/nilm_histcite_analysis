@@ -1,0 +1,50 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT B
+AU Haipeng Dai
+   Xiaobing Wu
+   Lijie Xu
+   Guihai Chen
+   Shan Lin
+TI Using Minimum Mobile Chargers to Keep Large-Scale Wireless Rechargeable
+   Sensor Networks Running Forever
+SO 2013 22nd International Conference on Computer Communication and
+   Networks (ICCCN)
+BP 7 pp.
+EP 7 pp.
+DI 10.1109/ICCCN.2013.6614207
+PD 2013
+PY 2013
+AB Wireless Rechargeable Sensor Networks (WRSNs) can be recharged after
+   deployment for sustainable operations. Recent works propose to use a
+   single mobile charger (MC) traveling through the network fields to
+   recharge every sensor node. These algorithms work well in small scale
+   networks. However, in large scale networks these algorithms do not work
+   efficiently, especially when the amount of energy the MC can provide is
+   limited. To address these challenges, multiple MCs can be used. In this
+   paper, we investigate the minimum MCs problem (MinMCP) for rechargeable
+   sensor networks: how to find the minimum number of energy-constrained
+   MCs and design their recharging routes given a sensor network such that
+   each sensor node in the WRSN maintains continuous work. Our results are
+   three folds. We first prove that for any epsilon > 0, there is no
+   (2-epsilon)-approximation algorithm for Distance Constrained Vehicle
+   Routing Problem (DVRP) on a general metric space, which is the best as
+   far as we know. By reducing from DVRP, we prove that MinMCP is NP-hard,
+   and the inapproximability bound for MinMCP is the same as that of DVRP.
+   Then we propose approximation algorithms for this problem. Finally, we
+   conduct simulations to validate the effectiveness of our algorithms.
+CT 2013 22nd International Conference on Computer Communication and
+   Networks (ICCCN 2013)
+CY 30 July-2 Aug. 2013
+CL Nassau, Bahamas
+ZB 0
+Z8 0
+TC 0
+ZR 0
+ZS 0
+Z9 0
+BN 978-1-4673-5774-6
+UT INSPEC:13867267
+ER
+
+EF

@@ -1,0 +1,52 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Fu, Lingkun
+   Cheng, Peng
+   Gu, Yu
+   Chen, Jiming
+   He, Tian
+TI Optimal Charging in Wireless Rechargeable Sensor Networks
+SO IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY
+VL 65
+IS 1
+BP 278
+EP 291
+DI 10.1109/TVT.2015.2391119
+PD JAN 2016
+PY 2016
+AB Recent years have witnessed several new promising technologies to power
+   wireless sensor networks, which motivate some key topics to be
+   revisited. By integrating sensing and computation capabilities to the
+   traditional radio-frequency identification (RFID) tags, the Wireless
+   Identification and Sensing Platform (WISP) is an open-source platform
+   acting as a pioneering experimental platform of wireless rechargeable
+   sensor networks. Different from traditional tags, an RFID-based wireless
+   rechargeable sensor node needs to charge its onboard energy storage
+   above a threshold to power its sensing, computation, and communication
+   components. Consequently, such charging delay imposes a unique design
+   challenge for deploying wireless rechargeable sensor networks. In this
+   paper, we tackle this problem by planning the optimal movement strategy
+   of the mobile RFID reader, such that the time to charge all nodes in the
+   network above their energy threshold is minimized. We first propose an
+   optimal solution using the linear programming (LP) method. To further
+   reduce the computational complexity, we then introduce a heuristic
+   solution with a provable approximation ratio of (1 + theta)/(1 -
+   epsilon) by discretizing the charging power on a 2-D space. Through
+   extensive evaluations, we demonstrate that our design outperforms the
+   set-cover-based design by an average of 24.7%, whereas the computational
+   complexity is O((N/epsilon)(2)). Finally, we consider two practical
+   issues in system implementation and provide guidelines for parameter
+   setting.
+Z8 0
+ZR 0
+TC 65
+ZB 0
+ZS 0
+Z9 65
+SN 0018-9545
+EI 1939-9359
+UT WOS:000375206200024
+ER
+
+EF

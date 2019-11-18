@@ -1,0 +1,47 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Zheng, Kan
+   Wang, Huijian
+   Li, Hang
+   Xiang, Wei
+   Lei, Lei
+   Qiao, Jian
+   Shen, Xuemin (Sherman)
+TI Energy-Efficient Localization and Tracking of Mobile Devices in Wireless
+   Sensor Networks
+SO IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY
+VL 66
+IS 3
+BP 2714
+EP 2726
+DI 10.1109/TVT.2016.2584104
+PD MAR 2017
+PY 2017
+AB Wireless sensor networks (WSNs) are effective for locating and tracking
+   people and objects in various industrial environments. Since energy
+   consumption is critical to prolonging the lifespan of WSNs, we propose
+   an energy-efficient LOcalization and Tracking (eLOT) system, using
+   low-cost and portable hardware to enable highly accurate tracking of
+   targets. Various fingerprint based approaches for localization and
+   tracking are implemented in eLOT. To achieve high energy efficiency, a
+   network-level scheme coordinating collision and interference is
+   proposed. On the other hand, based on the location information, mobile
+   devices in eLOT can quickly associate with the specific channel in a
+   given area, while saving energy by avoiding unnecessary transmission.
+   Finally, a platform based on TI CC2530 and the Linux operating system is
+   built to demonstrate the effectiveness of our proposed scheme in terms
+   of localization accuracy and energy efficiency.
+OI Zheng, Kan/0000-0002-8531-6762; Lei, Lei/0000-0002-2577-6644
+ZB 0
+Z8 2
+TC 19
+ZR 0
+ZS 0
+Z9 20
+SN 0018-9545
+EI 1939-9359
+UT WOS:000396401400063
+ER
+
+EF
