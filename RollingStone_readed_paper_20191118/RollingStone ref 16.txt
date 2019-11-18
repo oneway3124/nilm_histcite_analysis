@@ -1,0 +1,51 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Zhang, Zhuo
+   Zhu, Yaguang
+   Zhu, Wentao
+   Chen, Huayang
+   Hong, Xuezhi
+   Chen, Jiajia
+TI Iterative point-wise reinforcement learning for highly accurate indoor
+   visible light positioning
+SO OPTICS EXPRESS
+VL 27
+IS 16
+BP 22161
+EP 22172
+DI 10.1364/OE.27.022161
+PD AUG 5 2019
+PY 2019
+AB Iterative point-wise reinforcement learning (IPWRL) is proposed for
+   highly accurate indoor visible light positioning (VLP). By properly
+   updating the height information in an iterative fashion., the IPWRL not
+   only effectively mitigates the impact of non-deterministic noise but
+   also exhibits excellent tolerance to deterministic errors caused by the
+   inaccurate a priori height information. The principle of the IPWRL is
+   explained, and the performance of the IPWRL is experimentally evaluated
+   in a received signal strength (RSS) based VLP system and compared with
+   other positioning algorithms, including the conventional RSS algorithm,
+   the k-nearest neighbors (KNN) algorithm and the PWRL algorithm where
+   iterations exclude. Unlike the supervised machine learning method, e.g.,
+   the KNN, whose performance is highly dependent on the training process,
+   the proposed IPWRL does not require training and demonstrates robust
+   positioning performance for the entire tested area. Experimental results
+   also show that when a large height information mismatch occurs, the
+   IPWRL is able to first correct the height information and then offers
+   robust positioning results with a rather low positioning error, while
+   the positioning errors caused by the other algorithms are significantly
+   higher. (C) 2019 Optical Society of America under the terms of the OSA
+   Open Access Publishing Agreement
+ZR 0
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1094-4087
+UT WOS:000478790400036
+PM 31510511
+ER
+
+EF

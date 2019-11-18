@@ -1,0 +1,50 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Xu, Yitong
+   Wang, Zixiong
+   Liu, Peixi
+   Chen, Jian
+   Han, Shiying
+   Yu, Changyuan
+   Yu, Jinlong
+TI Accuracy analysis and improvement of visible light positioning based on
+   VLC system using orthogonal frequency division multiple access
+SO OPTICS EXPRESS
+VL 25
+IS 26
+BP 32618
+EP 32630
+DI 10.1364/OE.25.032618
+PD DEC 25 2017
+PY 2017
+AB In this paper, we proposed a system that realized simultaneously visible
+   light positioning (VLP) and visible light communications (VLC) in the
+   same band by using orthogonal frequency division multiple access
+   (OFDMA). This system used the power of data sequence as the metric to
+   estimate the transmission distances and consequently the receiver's
+   position, without deteriorating the VLC's throughput. We theoretically
+   analyzed the positioning errors in both overdetermined and determined
+   VLP systems. In overdetermined VLP system, optimal selection of master
+   light-emitting diode (LED) avoided the fluctuation of positioning error.
+   Excluding the LED with longest transmission distance changed the
+   overdetermined VLP system to determined VLP system, and reduced the
+   positioning error. The power allocation scheme reduced further the
+   positioning error in determined VLP system. This method was fast and
+   effective. The well-matched theoretical and Monte-Carlo (MC) simulation
+   results validated our proposed VLP based on VLC system using OFDMA. (C)
+   2017 Optical Society of America under the terms of the OSA Open Access
+   Publishing Agreement
+RI Yu, Changyuan/C-2241-2011
+OI Yu, Changyuan/0000-0002-3185-0441
+Z8 0
+ZR 0
+TC 6
+ZS 0
+ZB 0
+Z9 6
+SN 1094-4087
+UT WOS:000418893200038
+ER
+
+EF

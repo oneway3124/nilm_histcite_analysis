@@ -1,0 +1,40 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Chuang, Yu-Cheng
+   Li, Zhi-Qing
+   Hsu, Chin-Wei
+   Liu, Yang
+   Chow, Chi-Wai
+TI Visible light communication and positioning using positioning cells and
+   machine learning algorithms
+SO OPTICS EXPRESS
+VL 27
+IS 11
+BP 16377
+EP 16383
+DI 10.1364/OE.27.016377
+PD MAY 27 2019
+PY 2019
+AB We propose and experimentally demonstrate a practical visible light
+   position (VLP) system using repeated unit cells and machine learning
+   (ML) algorithms. ML is employed to increase the positioning accuracy.
+   Algorithms of the 2nd-order regression ML model and the polynomial
+   trilateral ML model are discussed. More than 80% of the measurement data
+   have position error within 4 cm when using the 2nd-order regression ML
+   model, while the position error is within 5 cm when using the polynomial
+   trilateral ML model. (C) 2019 Optical Society of America under the terms
+   of the OSA Open Access Publishing Agreement
+RI Chow, CW/AAA-8159-2019
+ZB 0
+TC 1
+Z8 0
+ZS 0
+ZR 0
+Z9 1
+SN 1094-4087
+UT WOS:000469227200104
+PM 31163815
+ER
+
+EF

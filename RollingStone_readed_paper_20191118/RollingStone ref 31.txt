@@ -1,0 +1,50 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Du, Pengfei
+   Zhang, Sheng
+   Chen, Chen
+   Alphones, Arokiaswami
+   Zhong, Wen-De
+TI Demonstration of a Low-Complexity Indoor Visible Light Positioning
+   System Using an Enhanced TDOA Scheme
+SO IEEE PHOTONICS JOURNAL
+VL 10
+IS 4
+AR 7905110
+DI 10.1109/JPHOT.2018.2841831
+PD AUG 2018
+PY 2018
+AB In this paper, a low-complexity time-difference-of-arrival (TDOA) based
+   indoor visible light positioning (VLP) system using an enhanced
+   practical localization scheme based on cross correlation is proposed and
+   experimentally demonstrated The proposed TDOA scheme offers two
+   advantages: 1) the use of virtual local oscillator to replace the real
+   local oscillator for cross correlation at the receiver side so as to
+   reduce the hardware complexity; 2) the application of cubic spline
+   interpolation on the correlation function to reduce the rigorous
+   requirement on the sampling rate and to enhance the time-resolution of
+   cross correlation. In order to achieve the high positioning accuracy
+   with minimum implementation complexity, parameter optimization is first
+   performed in terms of sampling rate, interpolation factor, and data
+   length for correlation. Using the obtained optimal parameters, we
+   demonstrate a low-complexity indoor two-dimensional VLP system using the
+   correlation-based TDOA scheme in a coverage area of 1.2 x 1.2 m(2) with
+   a height of 2 m. The experimental results validate the feasibility of
+   the proposed TDOA scheme, and an average positioning accuracy of 9.2 cm
+   is achieved with a sampling rate of 500 MSa/s, an interpolation factor
+   of 100 and a data length of 250 k samples.
+RI Chen, Chen/H-7246-2016
+OI Chen, Chen/0000-0003-2541-6283
+TC 8
+ZS 0
+Z8 0
+ZR 0
+ZB 0
+Z9 8
+SN 1943-0655
+EI 1943-0647
+UT WOS:000437788900001
+ER
+
+EF

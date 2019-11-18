@@ -1,0 +1,38 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Yang, Se-Hoon
+   Kim, Hyun-Seung
+   Son, Yong-Hwan
+   Han, Sang-Kook
+TI Three-Dimensional Visible Light Indoor Localization Using AOA and RSS
+   With Multiple Optical Receivers
+SO JOURNAL OF LIGHTWAVE TECHNOLOGY
+VL 32
+IS 14
+BP 2480
+EP 2485
+DI 10.1109/JLT.2014.2327623
+PD JUL 15 2014
+PY 2014
+AB A novel concept is proposed for integrating optical wireless visible
+   light communications with 3-D indoor positioning using a single
+   transmitter and multiple tilted optical receivers. We modeled a channel
+   link, which was based on the transmitter and receiver characteristic
+   data obtained in this experiment. The proposed 3-D positioning algorithm
+   is based on gain difference, which is a function of the angle of arrival
+   and the received signal strength. Our demonstration shows that the
+   proposed algorithm can determine accurate positions, including height,
+   without intercell interference.
+ZB 0
+ZS 0
+TC 106
+Z8 4
+ZR 1
+Z9 109
+SN 0733-8724
+EI 1558-2213
+UT WOS:000338658600005
+ER
+
+EF

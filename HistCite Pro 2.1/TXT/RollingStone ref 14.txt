@@ -1,0 +1,46 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Thomson, Dugald J. M.
+   Dosso, Stan E.
+   Barclay, David R.
+TI Modeling AUV Localization Error in a Long Baseline Acoustic Positioning
+   System
+SO IEEE JOURNAL OF OCEANIC ENGINEERING
+VL 43
+IS 4
+BP 955
+EP 968
+DI 10.1109/JOE.2017.2771898
+PD OCT 2018
+PY 2018
+AB This paper develops a linearized Bayesian inversion algorithm for
+   high-precision localization of an autonomous underwater vehicle (AUV) on
+   a test range using time difference of arrival acoustic data. The
+   Bayesian approach allows the uncertainties of several factors, including
+   precise receiver locations and bias and lateral variability of the
+   water-column sound-speed profile, to he included in the inversion as
+   unknown parameters with varying levels of prior information. This
+   provides better estimates of these parameters (and hence AUV locations),
+   and includes the effect of their uncertainties in the uncertainty
+   estimates for AUV locations. A modeling study comparing AUV localization
+   uncertainties from the linearized inversion that results from nonlinear
+   Monte Carlo analysis shows that linearization errors are small, and
+   hence linearized analysis is used to efficiently map AUV localization
+   uncertainty as a function of position over the test range. These
+   approaches are applied to model localization uncertainty for an AUV test
+   range associated with the Victoria Experimental Network Under the Sea
+   cabled observatory system, examining the factors mentioned above as well
+   as the effects of water-column refraction and receiver geometry.
+ZR 0
+ZB 0
+TC 6
+Z8 3
+ZS 0
+Z9 9
+SN 0364-9059
+EI 1558-1691
+UT WOS:000448542200011
+ER
+
+EF

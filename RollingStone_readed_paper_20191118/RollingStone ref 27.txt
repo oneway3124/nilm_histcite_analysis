@@ -1,0 +1,36 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Manolakis, DE
+TI Efficient solution and performance analysis of 3-D position estimation
+   by trilateration
+SO IEEE TRANSACTIONS ON AEROSPACE AND ELECTRONIC SYSTEMS
+VL 32
+IS 4
+BP 1239
+EP 1248
+DI 10.1109/7.543845
+PD OCT 1996
+PY 1996
+AB A new exact, explicit, and computationally efficient solution for
+   three-dimensional (3-D) position estimation based on range measurements
+   from three stations is proposed. The simple polynomial-type form of the
+   new algorithm facilitates the performance analysis. Formulae are
+   provided for both the variance and the bias of the position estimates.
+   The systematic error is a joint effect of both the measurement noise and
+   the system nonlinearity and its magnitude cannot be ignored if highly
+   accurate localization is required Performance evaluation results are
+   presented for various conditions.
+RI Manolakis, Dimitris/X-9610-2019
+OI Manolakis, Dimitris/0000-0001-5662-1832
+Z8 18
+ZR 0
+ZB 5
+TC 168
+ZS 0
+Z9 186
+SN 0018-9251
+UT WOS:A1996VP81600003
+ER
+
+EF

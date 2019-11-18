@@ -1,0 +1,52 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT S
+AU Prince, Gregary B.
+   Little, Thomas D. C.
+GP IEEE
+TI A Two Phase Hybrid RSS/AoA Algorithm for Indoor Device Localization
+   using Visible Light
+SO 2012 IEEE GLOBAL COMMUNICATIONS CONFERENCE (GLOBECOM)
+SE IEEE Global Communications Conference
+BP 3347
+EP 3352
+PD 2012
+PY 2012
+AB A two phase hybrid algorithm for estimating the location of a mobile
+   node, which has the capability of measuring signal strength, azimuth,
+   and elevation, in a smart space environment over the visible light
+   channel is proposed. In contrast to conventional triangulation
+   approaches which are performed in a simplified plane, the smart room
+   architecture requires a non-planar solution due to the illumination
+   requirement. Furthermore, conventional triangulation approaches can at
+   times produce numerically ill-defined solutions, thereby prohibiting a
+   notion of target location. Instead of solely relying on triangulation,
+   the mobile nodes estimate their locations through a two phase approach
+   in which they firstly exploit the signal strength observables with
+   unique IDs to establish a coarse estimate, and secondly use the azimuth
+   and elevation observables to establish a fine estimate. In many cases,
+   the fine estimate will improve upon the coarse estimate; however when
+   triangulation fails, the algorithm yields the coarse estimate rather
+   than a localization failure. Since the environment model relies on the
+   primary requirement of adequate illumination, the number of LED anchors
+   and transmit power for communication functions are determined.
+   Simulation results confirm the effectiveness of the hybrid two phase
+   localization approach in a smart space indoor environment by having a
+   median coarse phase accuracy of 34.88 cm and a fine phase median
+   accuracy of 13.95 cm
+CT IEEE Global Communications Conference (GLOBECOM)
+CY DEC 03-07, 2012
+CL Anaheim, CA
+SP IEEE; IEEE Commun Soc
+ZB 0
+Z8 0
+TC 33
+ZR 0
+ZS 0
+Z9 33
+SN 2334-0983
+BN 978-1-4673-0921-9; 978-1-4673-0920-2
+UT WOS:000322375103115
+ER
+
+EF

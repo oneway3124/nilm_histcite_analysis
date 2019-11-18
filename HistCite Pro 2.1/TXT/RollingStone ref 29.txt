@@ -1,0 +1,34 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT B
+AU Xie, Bo
+   Tan, Guang
+   He, Tian
+GP ACM
+TI SpinLight: A High Accuracy and Robust Light Positioning System for
+   Indoor Applications
+SO SENSYS'15: PROCEEDINGS OF THE 13TH ACM CONFERENCE ON EMBEDDED NETWORKED
+   SENSOR SYSTEMS
+BP 211
+EP 223
+DI 10.1145/2809695.2809713
+PD 2015
+PY 2015
+CT 13th ACM Conference on Embedded Networked Sensor Systems (SenSys)
+CY NOV 04-04, 2015
+CL Seoul, SOUTH KOREA
+SP ACM SIGARCH; ACM SIGBED; ACM SIGCOMM; ACM SIGMETRICS; ACM SIGMOBILE; ACM
+   SIGOPS; Golfzon; NSF; KAIST Sch Comp; KAIST Ctr Mobile Software
+   Platform; KT; Naver Labs; Samsung Electronics; SK Telecom; Seoul
+   Metropolitan Govt; Korea Tourism Org; Kyungpook Nat Univ CSOS; DGIST
+Z8 0
+ZR 0
+TC 15
+ZB 0
+ZS 0
+Z9 15
+BN 978-1-4503-3631-4
+UT WOS:000380612400018
+ER
+
+EF
