@@ -1,0 +1,81 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Makonin, S
+   Popowich, F
+   Bajic, IV
+   Gill, B
+   Bartram, L
+AF Makonin, Stephen
+   Popowich, Fred
+   Bajic, Ivan V.
+   Gill, Bob
+   Bartram, Lyn
+TI Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load
+   Monitoring
+SO IEEE TRANSACTIONS ON SMART GRID
+LA English
+DT Article
+DE Load disaggregation; nonintrusive load monitoring; NILM; energy
+   modeling; hidden Markov model; HMM; sparsity; Viterbi algorithm;
+   sustainability
+ID DISAGGREGATION
+AB Understanding how appliances in a house consume power is important when making intelligent and informed decisions about conserving energy. Appliances can turn ON and OFF either by the actions of occupants or by automatic sensing and actuation (e.g., thermostat). It is also difficult to understand how much a load consumes at any given operational state. Occupants could buy sensors that would help, but this comes at a high financial cost. Power utility companies around the world are now replacing old electro-mechanical meters with digital meters (smart meters) that have enhanced communication capabilities. These smart meters are essentially free sensors that offer an opportunity to use computation to infer what loads are running and how much each load is consuming (i.e., load disaggregation). We present a new load disaggregation algorithm that uses a super-state hidden Markov model and a new Viterbi algorithm variant which preserves dependencies between loads and can disaggregate multi-state loads, all while performing computationally efficient exact inference. Our sparse Viterbi algorithm can efficiently compute sparse matrices with a large number of super-states. Additionally, our disaggregator can run in real-time on an inexpensive embedded processor using low sampling rates.
+C1 [Makonin, Stephen; Popowich, Fred] Simon Fraser Univ, Sch Comp Sci, Burnaby, BC V5C 3T2, Canada.
+   [Bajic, Ivan V.] Simon Fraser Univ, Sch Engn Sci, Burnaby, BC V5A 1S6, Canada.
+   [Gill, Bob] British Columbia Inst Technol, Sch Energy, Burnaby, BC V5G 3H2, Canada.
+   [Bartram, Lyn] Simon Fraser Univ, Sch Interact Arts & Technol, Surrey, BC V3T 0A3, Canada.
+RP Makonin, S (reprint author), Simon Fraser Univ, Sch Comp Sci, Burnaby, BC V5C 3T2, Canada.
+EM smakonin@sfu.ca; popowich@sfu.ca; ibajic@sfu.ca; bob_gill@bcit.ca;
+   lyn@sfu.ca
+RI Makonin, Stephen/I-2761-2013; Bajic, Ivan V./I-1241-2013
+OI Makonin, Stephen/0000-0002-7818-8301; Bajic, Ivan V./0000-0003-3154-5743
+CR Berges ME, 2010, J IND ECOL, V14, P844, DOI 10.1111/j.1530-9290.2010.00280.x
+   Bishop C.M., 2006, PATTERN RECOGNITION, V1
+   DUFF IS, 1989, ACM T MATH SOFTWARE, V15, P1, DOI 10.1145/62038.62043
+   Figueiredo M, 2012, NEUROCOMPUTING, V96, P66, DOI 10.1016/j.neucom.2011.10.037
+   HART GW, 1992, P IEEE, V80, P1870, DOI 10.1109/5.192069
+   Johnson MJ, 2013, J MACH LEARN RES, V14, P673
+   Kelly J., 2014, P 1 ACM C EMB SYST E, P182, DOI DOI 10.1145/2674061.2675024
+   Kim H., 2011, SDM, P747, DOI DOI 10.1137/1.9781611972818.64
+   Kolter J. Z., 2010, ADV NEURAL INFORM PR, P1153
+   Kolter J. Z., 2011, P SUSTKDD WORKSH DAT, V25, P1, DOI DOI 10.1016/S0895-4356(03)00177-X
+   Kolter J. Z., 2012, J MACHINE LEARNING R, V22, P1472
+   Makonin S, 2014, THESIS
+   Makonin S., 2014, P IEEE CAN IHTC MONT, P1
+   Makonin S, 2015, ENERG EFFIC, V8, P809, DOI 10.1007/s12053-014-9306-2
+   Makonin S, 2013, 2013 IEEE ELECTRICAL POWER &, DOI 10.1109/EPEC.2013.6802949
+   Parson O., 2014, THESIS
+   Roberts B., 2006, P 44 AIAA AER SCI M, P1
+   Tsai MS, 2012, APPL ENERG, V96, P55, DOI 10.1016/j.apenergy.2011.11.027
+   Zeifman M., 2011, IEEE S COMP INT APPL, P1, DOI DOI 10.1109/CIASG.2011.5953328
+   Zeifman M, 2012, IEEE T CONSUM ELECTR, V58, P23, DOI 10.1109/TCE.2012.6170051
+   Zia Tehseen, 2011, IECON 2011 - 37th Annual Conference of IEEE Industrial Electronics, P3218, DOI 10.1109/IECON.2011.6119826
+NR 21
+TC 58
+Z9 64
+U1 7
+U2 18
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1949-3053
+EI 1949-3061
+J9 IEEE T SMART GRID
+JI IEEE Trans. Smart Grid
+PD NOV
+PY 2016
+VL 7
+IS 6
+BP 2575
+EP 2585
+DI 10.1109/TSG.2015.2494592
+PG 11
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA EH4EH
+UT WOS:000391723600001
+DA 2019-11-17
+ER
+
+EF

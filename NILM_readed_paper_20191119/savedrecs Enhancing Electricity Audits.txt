@@ -1,0 +1,93 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Berges, ME
+   Goldman, E
+   Matthews, HS
+   Soibelman, L
+AF Berges, Mario E.
+   Goldman, Ethan
+   Matthews, H. Scott
+   Soibelman, Lucio
+TI Enhancing Electricity Audits in Residential Buildings with Nonintrusive
+   Load Monitoring
+SO JOURNAL OF INDUSTRIAL ECOLOGY
+LA English
+DT Article
+DE energy conservation; energy use; green buildings; industrial ecology;
+   information and communication technology (ICT); technology assessment
+AB P>Nonintrusive load monitoring (NILM) is a technique for deducing the power consumption and operational schedule of individual loads in a building from measurements of the overall voltage and current feeding it, using information and communication technologies. In this article, we review the potential of this technology to enhance residential electricity audits. First, we review the currently commercially available whole-house and plug-level technology for residential electricity monitoring in the context of supporting audits. We then contrast this with NILM and show the advantages and disadvantages of the approach by discussing results from a prototype system installed in an apartment unit. Recommendations for improving the technology to allow detailed, continuous appliance-level auditing of residential buildings are provided, along with ideas for possible future work in the field.
+C1 [Berges, Mario E.; Matthews, H. Scott; Soibelman, Lucio] Carnegie Mellon Univ, Dept Civil & Environm Engn, Pittsburgh, PA 15213 USA.
+   [Matthews, H. Scott] Carnegie Mellon Univ, Green Design Inst, Pittsburgh, PA 15213 USA.
+RP Berges, ME (reprint author), Carnegie Mellon Univ, Dept Civil & Environm Engn, 113 Porter Hall,5000 Forbes Ave, Pittsburgh, PA 15213 USA.
+EM marioberges@cmu.edu
+FU Robert Bosch LLC Research and Technology Center North America; National
+   Science Foundation (NSF)National Science Foundation (NSF) [09-30868]
+FX We would like to gratefully acknowledge the support from the Robert
+   Bosch LLC Research and Technology Center North America and the National
+   Science Foundation (NSF) grant # 09-30868. The opinions expressed herein
+   are those of the authors and not of the NSF.
+CR *ALERTME LTD, 2009, ALERTME SMART EN MON
+   BERGES M, 2009, LEARNING SYSTEMS ELE
+   BERGES M, 2010, EVALUATING ELECT CON
+   *BLU LIN INN, 2009, POW MON
+   CAVALLO J, 2000, HOME ENERGY MAGAZINE, V17, P32
+   Chuang A., 2008, INTEGRATING NEW EMER
+   Cox R, 2006, APPL POW EL C EXP 20
+   Cox R.W., 2004, FIELD BASED APPROACH
+   Darby S., 2006, EFFECTIVENESS FEEDBA
+   *EL ED DEV, 2009, WATTS UP PRO
+   *EL POW RES I, 1997, LOW COST NIALMS TECH
+   Electric Power Research Institute, 2009, RES EL US FEEDB RES
+   *EN INC, 2009, EN DET
+   *EN INC, 2009, EN ADV MET AN
+   *EN INF ADM, 2001, END US CONS EL END U
+   *EN INF ADM, 2005, RES EN CONS SURV
+   Energy Information Administration, 2008, ANN EN REV
+   Farinaccio L, 1999, ENERG BUILDINGS, V30, P245, DOI 10.1016/S0378-7788(99)00007-9
+   Fischer C, 2008, ENERG EFFIC, V1, P79, DOI 10.1007/s12053-008-9009-7
+   Granderson J., 2009, PRELIMINARY FINDINGS
+   Hart G. W., 1989, IEEE Technology and Society Magazine, V8, P12, DOI 10.1109/44.31557
+   HART GW, 1992, P IEEE, V80, P1870, DOI 10.1109/5.192069
+   Kempton W., 1985, MARRIAGE FAM REV, V9, P115, DOI DOI 10.1300/J002V09N01_07
+   LAUGHMAN CK, 2003, ENERGY, V1, P56
+   *LAWR BERK NAT LAB, 2009, ALL PUBL DEM RES RES
+   LEEB SB, 1996, Patent No. 5483153
+   Luo D., 2002, ASHRAE T, V108, P841
+   Matthews H., 2008, INTELLIGENT COMPUTIN, P381
+   Motegi N., 2003, CASE STUDIES ENERGY
+   Parker D., 2006, P 2006 SUMM STUD EN
+   *POW LLC, 2009, POW MON SYST WIR WRA
+   Rowe A., 2006, FIREFLY TIME SYNCHRO
+   Shaw SR, 2008, IEEE T INSTRUM MEAS, V57, P1445, DOI 10.1109/TIM.2008.917179
+   Thumann A., 2003, HDB ENERGY AUDITS
+NR 34
+TC 63
+Z9 63
+U1 5
+U2 25
+PU WILEY-BLACKWELL PUBLISHING, INC
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 1088-1980
+J9 J IND ECOL
+JI J. Ind. Ecol.
+PD OCT
+PY 2010
+VL 14
+IS 5
+SI SI
+BP 844
+EP +
+DI 10.1111/j.1530-9290.2010.00280.x
+PG 16
+WC Green & Sustainable Science & Technology; Engineering, Environmental;
+   Environmental Sciences
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences
+   & Ecology
+GA 673VQ
+UT WOS:000283692700013
+DA 2019-11-19
+ER
+
+EF

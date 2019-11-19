@@ -1,0 +1,103 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Kong, WC
+   Dong, ZY
+   Ma, J
+   Hill, DJ
+   Zhao, JH
+   Luo, FJ
+AF Kong, Weicong
+   Dong, Zhao Yang
+   Ma, Jin
+   Hill, David J.
+   Zhao, Junhua
+   Luo, Fengji
+TI An Extensible Approach for Non-Intrusive Load Disaggregation With Smart
+   Meter Data
+SO IEEE TRANSACTIONS ON SMART GRID
+LA English
+DT Article
+DE Load disaggregation; hidden Markov model; clustering; integer quadratic
+   constraint programming; smart meter
+AB Appliance-level load models are expected to be crucial to future smart grid applications. Unlike direct appliance monitoring approaches, it is more flexible and convenient to mine smart meter data to generate load models at device level nonintrusively and generalise to all households with smart meter ownership. This paper proposes a comprehensive and extensible framework to solve the load disaggregation problem for residential households. Our approach examines both the modelling of home appliances as hidden Markov models and the solving of non-intrusive load monitoring based on segmented integer quadratic constraint programming to disaggregate a household power profile into the appliance level. Structure of our approach to be implemented with current smart meter infrastructure is given and simulations are performed based on public datasets. All data are down-sampled to the rate that is consistent with the Australia smart meter infrastructure minimum functionality. The results demonstrate that our approach is able to work with existing smart meters to generate device level load model for other smart grid research and applications.
+C1 [Kong, Weicong; Dong, Zhao Yang; Ma, Jin; Hill, David J.] Univ Sydney, Sch Elect & Informat Engn, Sydney, NSW 2006, Australia.
+   [Dong, Zhao Yang] China Southern Grid Co, Guangzhou 510623, Guangdong, Peoples R China.
+   [Hill, David J.] Univ Hong Kong, Dept Elect & Elect Engn, Elect Engn, Hong Kong, Hong Kong, Peoples R China.
+   [Zhao, Junhua] Chinese Univ Hong Kong, Shenzhen, Peoples R China.
+   [Luo, Fengji] Univ Sydney, Sch Civil Engn, Sydney, NSW 2006, Australia.
+RP Kong, WC (reprint author), Univ Sydney, Sch Elect & Informat Engn, Sydney, NSW 2006, Australia.
+EM weicong.kong@sydney.edu.au; zydong@ieee.org; j.ma@sydney.edu.au;
+   dhill@eee.hku.hk; junhua.zhao@outlook.com; fengji.luo@sydney.edu.au
+RI Kong, Weicong/Y-5291-2019; Zhao, Junhua/L-8194-2019; Hill,
+   David/L-2218-2013
+OI Dong, Zhao Yang/0000-0001-9659-0858; Kong, Weicong/0000-0002-1229-3790;
+   Ma, jin/0000-0002-9912-2520; Hill, David/0000-0003-4036-0839
+FU Department of Education Australia; Sydney UniversityUniversity of
+   Sydney; China Southern Power Grid Company [WYKJ00000027]; Early Career
+   Research Development Scheme of Faculty of Engineering and Information
+   Technology, University of Sydney, Australia
+FX This work was supported in part by the Department of Education Australia
+   through Endeavour Postgraduate Scholarship Scheme, in part by the Sydney
+   University Bridge Grant and the Faculty Research Cluster Program, and in
+   part by the China Southern Power Grid Company under Project
+   WYKJ00000027. The work of F. Luo was supported by the Early Career
+   Research Development Scheme of Faculty of Engineering and Information
+   Technology, University of Sydney, Australia. Paper no. TSG-01303-2015.
+CR [Anonymous], 2011, SMART MET INFR MIN F
+   Basu K, 2015, IEEE T IND INFORM, V11, P262, DOI 10.1109/TII.2014.2361288
+   Batra N, 2014, P 5 INT C FUT EN SYS, P265, DOI DOI 10.1145/2602044.2602051
+   Berges ME, 2010, J IND ECOL, V14, P844, DOI 10.1111/j.1530-9290.2010.00280.x
+   CASELLA G, 1992, AM STAT, V46, P167, DOI 10.2307/2685208
+   Chang HH, 2008, INT C COMP SUPP COOP, P1122
+   Cicchetti R., 2013, THESIS
+   Ghahramani Z, 1997, MACH LEARN, V29, P245, DOI 10.1023/A:1007425814087
+   Guo ZY, 2015, IEEE T POWER SYST, V30, P254, DOI 10.1109/TPWRS.2014.2327041
+   HART GW, 1992, P IEEE, V80, P1870, DOI 10.1109/5.192069
+   Hassan T, 2014, IEEE T SMART GRID, V5, P870, DOI 10.1109/TSG.2013.2271282
+   Henao N., 2015, IEEE T SMART GRID, P1, DOI DOI 10.1109/TSG.2015.2462719
+   Johnson MJ, 2013, J MACH LEARN RES, V14, P673
+   Kim H., 2011, SDM, P747, DOI DOI 10.1137/1.9781611972818.64
+   Kolter J. Z., 2010, ADV NEURAL INFORM PR, P1153
+   Kolter J. Z., 2012, J MACHINE LEARNING R, V22, P1472
+   Kolter J.Z., 2011, WORKSH DAT MIN APPL, V25, P59
+   Laughman C., 2003, IEEE Power & Energy Magazine, V1, P56, DOI 10.1109/MPAE.2003.1192027
+   Makonin S, 2015, ENERG EFFIC, V8, P809, DOI 10.1007/s12053-014-9306-2
+   Makonin S, 2016, IEEE T SMART GRID, V7, P2575, DOI 10.1109/TSG.2015.2494592
+   Makonin S, 2013, 2013 IEEE ELECTRICAL POWER & ENERGY CONFERENCE (EPEC), DOI 10.1109/EPEC.2013.6802949
+   Mnatsakanyan A, 2015, IEEE T SMART GRID, V6, P230, DOI 10.1109/TSG.2014.2339213
+   Parson O., 2014, THESIS
+   Parson O., 2011, NEUR INF PROC SYST W
+   Parson O., 2012, 26 C ART INT AAAI TO
+   Patel SN, 2007, LECT NOTES COMPUT SC, V4717, P271
+   Pipattanasomporn M, 2014, IEEE T SMART GRID, V5, P742, DOI 10.1109/TSG.2013.2268664
+   Stephen B, 2014, IEEE T POWER DELIVER, V29, P88, DOI 10.1109/TPWRD.2013.2287032
+   Suzuki Kosuke, 2008, SICE 2008 - 47th Annual Conference of the Society of Instrument and Control Engineers of Japan, P2742, DOI 10.1109/SICE.2008.4655131
+NR 29
+TC 22
+Z9 22
+U1 8
+U2 19
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1949-3053
+EI 1949-3061
+J9 IEEE T SMART GRID
+JI IEEE Trans. Smart Grid
+PD JUL
+PY 2018
+VL 9
+IS 4
+BP 3362
+EP 3372
+DI 10.1109/TSG.2016.2631238
+PG 11
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA GS0NG
+UT WOS:000443196400088
+DA 2019-11-17
+ER
+
+EF
